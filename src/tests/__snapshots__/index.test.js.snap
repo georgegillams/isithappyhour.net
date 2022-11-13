@@ -46,9 +46,59 @@ exports[`<HomePage /> should render correctly 1`] = `
           class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
         >
           <span
-            class="sc-jSMfEi kskSGE"
+            class="sc-kDDrLX bMvsic"
           >
-            It's happy hour somewhere in the world. Cheers 🍻
+            <span
+              class="sc-jSMfEi kskSGE"
+            >
+              In undefined it's undefined:undefined, so it's likely to be happy hour there.
+            </span>
+          </span>
+        </div>
+      </div>
+      <div
+        class="sc-ftvSup laBHLg"
+      >
+        <style>
+          .js .animated-content__wrapper--hidden {
+  padding-top: 4rem;
+  opacity: 0.01;
+}
+        </style>
+        <div
+          class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+        >
+          <span
+            class="sc-kDDrLX bMvsic"
+          >
+            <span
+              class="sc-jSMfEi kskSGE"
+            >
+              Travelling all that way would be environmentally unfriendly, so you're really doing us all a favour by staying where you are and having a beer.
+            </span>
+          </span>
+        </div>
+      </div>
+      <div
+        class="sc-ftvSup laBHLg"
+      >
+        <style>
+          .js .animated-content__wrapper--hidden {
+  padding-top: 4rem;
+  opacity: 0.01;
+}
+        </style>
+        <div
+          class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+        >
+          <span
+            class="sc-kDDrLX bMvsic"
+          >
+            <span
+              class="sc-jSMfEi kskSGE"
+            >
+              Cheers 🍻
+            </span>
           </span>
         </div>
       </div>
@@ -73,23 +123,23 @@ exports[`<HomePage /> should render correctly 1`] = `
           class="footerstyles__StyledTechSpecs-sc-ojjd19-1 bxZcwO"
         >
           <span
-            class="sc-breuTD fxMIXR tech-specsstyles__StyledParagraph-sc-1ysn53a-0 glkFZI"
+            class="sc-kDDrLX bMvsic tech-specsstyles__StyledParagraph-sc-1ysn53a-0 glkFZI"
           >
             Made with love by
              
             <a
               aria-label="George (opens in a new tab)"
-              class="sc-iqcoie grFwrp"
+              class="sc-crXcEl getKBC"
               href="https://www.georgegillams.co.uk/"
               rel="noopener noreferrer"
               target="_blank"
             >
               George
               <div
-                class="sc-crXcEl cglokn"
+                class="sc-evZas gLzuUv"
               >
                 <svg
-                  class="sc-kDDrLX bMmoyM sc-evZas eYdasH"
+                  class="sc-iqcoie chQRol sc-breuTD ktuGc"
                   height="18"
                   viewBox="0 0 24 24"
                   width="18"
@@ -103,7 +153,7 @@ exports[`<HomePage /> should render correctly 1`] = `
             </a>
           </span>
           <span
-            class="sc-breuTD fxMIXR tech-specsstyles__StyledParagraph-sc-1ysn53a-0 glkFZI"
+            class="sc-kDDrLX bMvsic tech-specsstyles__StyledParagraph-sc-1ysn53a-0 glkFZI"
           >
             Please do not share with anyone under the legal purchase age for alcohol. Drink Responsibly.
           </span>
