@@ -1,0 +1,145 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NavigationItem /> Should render correctly 1`] = `
+<div>
+  <a
+    class="sc-gsnTZi hvFSuA sc-crXcEl hbtQem"
+    href="/test"
+  >
+    <div
+      class="sc-dkzDqf hkFiab"
+    >
+      <div
+        class="sc-hKMtZM kvlGVY"
+      />
+      <div
+        class="sc-eCYdqJ heBWoi"
+      >
+        <div
+          aria-hidden="true"
+          class="sc-evZas bZNQpX"
+        >
+          <div
+            class="sc-breuTD knUrQg date container"
+          />
+          <div
+            class="sc-ksZaOG fRNvFu"
+          >
+            <h1
+              class="sc-hHLeRK ilwmty"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+`;
+
+exports[`<NavigationItem /> Should render correctly hrefExternal 1`] = `
+<div>
+  <a
+    class="sc-gsnTZi hvFSuA sc-crXcEl hbtQem"
+    href="https://duckduckgo.com/"
+  >
+    <div
+      class="sc-dkzDqf hkFiab"
+    >
+      <div
+        class="sc-hKMtZM kvlGVY"
+      />
+      <div
+        class="sc-eCYdqJ heBWoi"
+      >
+        <div
+          aria-hidden="true"
+          class="sc-evZas bZNQpX"
+        >
+          <div
+            class="sc-breuTD knUrQg date container"
+          />
+          <div
+            class="sc-ksZaOG fRNvFu"
+          >
+            <h1
+              class="sc-hHLeRK ilwmty"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+`;
+
+exports[`<NavigationItem /> Should render correctly with custom className 1`] = `
+<div>
+  <a
+    class="sc-gsnTZi hvFSuA sc-crXcEl hbtQem test-custom-classname"
+    href="/test"
+  >
+    <div
+      class="sc-dkzDqf hkFiab"
+    >
+      <div
+        class="sc-hKMtZM kvlGVY"
+      />
+      <div
+        class="sc-eCYdqJ heBWoi"
+      >
+        <div
+          aria-hidden="true"
+          class="sc-evZas bZNQpX"
+        >
+          <div
+            class="sc-breuTD knUrQg date container"
+          />
+          <div
+            class="sc-ksZaOG fRNvFu"
+          >
+            <h1
+              class="sc-hHLeRK ilwmty"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+`;
+
+exports[`<NavigationItem /> Should render with nextified href 1`] = `
+<div>
+  <a
+    class="sc-gsnTZi hvFSuA sc-crXcEl hbtQem"
+    href="/blog/test"
+  >
+    <div
+      class="sc-dkzDqf hkFiab"
+    >
+      <div
+        class="sc-hKMtZM kvlGVY"
+      />
+      <div
+        class="sc-eCYdqJ heBWoi"
+      >
+        <div
+          aria-hidden="true"
+          class="sc-evZas bZNQpX"
+        >
+          <div
+            class="sc-breuTD knUrQg date container"
+          />
+          <div
+            class="sc-ksZaOG fRNvFu"
+          >
+            <h1
+              class="sc-hHLeRK ilwmty"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+`;

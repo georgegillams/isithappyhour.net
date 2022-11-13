@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Notifications /> should render correctly - index 1`] = `
+<div>
+  <div />
+</div>
+`;
+
+exports[`<Notifications /> should render correctly with initial state 1`] = `
+<div>
+  <div />
+</div>
+`;
+
+exports[`<Notifications /> should render correctly with loadError 1`] = `
+<div>
+  <div />
+</div>
+`;
+
+exports[`<Notifications /> should render correctly with loading=true 1`] = `
+<div>
+  <div />
+</div>
+`;
+
+exports[`<Notifications /> should render correctly with notifications 1`] = `
+<div>
+  <div
+    class="sc-bczRLJ gtcKKB notificationsstyles__StyledNotification-sc-1lybnks-0 fOYZIT"
+    type="success"
+  >
+    message1
+  </div>
+  <div
+    class="sc-bczRLJ bXagSq notificationsstyles__StyledNotification-sc-1lybnks-0 fOYZIT"
+    type="warn"
+  >
+    message2
+  </div>
+  <div
+    class="sc-bczRLJ fyYUmk notificationsstyles__StyledNotification-sc-1lybnks-0 fOYZIT"
+    type="error"
+  >
+    message3
+  </div>
+  <div />
+</div>
+`;
+
+exports[`<Notifications /> should render correctly with user 1`] = `
+<div>
+  <div />
+</div>
+`;

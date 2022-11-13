@@ -1,0 +1,346 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AdminAnalytics /> should render correctly - index 1`] = `
+<div>
+  <div
+    class="sc-ksZaOG fmXsYE"
+  >
+    <h1
+      class="sc-gsnTZi cTWewb sc-fEOsli cWAOmA"
+      id="admin-only"
+    >
+      Admin only
+    </h1>
+    <span
+      class="sc-dIouRR fiupoW"
+    >
+      You need to be logged in with an admin account to view this content.
+      <br />
+      <a
+        class="sc-iBkjds JLudk"
+        href="/login"
+      >
+        Got a different admin account? Log in here.
+      </a>
+    </span>
+  </div>
+</div>
+`;
+
+exports[`<AdminAnalytics /> should render correctly with admin user 1`] = `
+<div>
+  <div>
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <div
+        class="sc-kDDrLX emakin"
+      >
+        <a
+          class="sc-iBkjds JLudk"
+          href="/admin"
+        >
+          ⇠ Admin
+        </a>
+      </div>
+    </div>
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <h1
+        class="sc-bczRLJ hDLBIv sc-jqUVSM drQcdn"
+      >
+        Admin analytics
+      </h1>
+    </div>
+  </div>
+  <div>
+    <button
+      class="sc-ezWOiH fPvxvS admin-analyticsstyles__Control-sc-gt0i0n-2 dQsEUV"
+      type="button"
+    >
+      <span
+        class="sc-kLLXSd fcoDhu"
+      >
+        Reload analytics
+      </span>
+    </button>
+    <button
+      class="sc-ezWOiH fPvxvS admin-analyticsstyles__Control-sc-gt0i0n-2 dQsEUV"
+      type="button"
+    >
+      <span
+        class="sc-kLLXSd fcoDhu"
+      >
+        Show filters
+      </span>
+    </button>
+  </div>
+  <div
+    class="admin-analyticsstyles__CardContainer-sc-gt0i0n-0 cbOtJG"
+  />
+</div>
+`;
+
+exports[`<AdminAnalytics /> should render correctly with analytics 1`] = `
+<div>
+  <div>
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <div
+        class="sc-kDDrLX emakin"
+      >
+        <a
+          class="sc-iBkjds JLudk"
+          href="/admin"
+        >
+          ⇠ Admin
+        </a>
+      </div>
+    </div>
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <h1
+        class="sc-bczRLJ hDLBIv sc-jqUVSM drQcdn"
+      >
+        Admin analytics
+      </h1>
+    </div>
+  </div>
+  <div>
+    <button
+      class="sc-ezWOiH fPvxvS admin-analyticsstyles__Control-sc-gt0i0n-2 dQsEUV"
+      type="button"
+    >
+      <span
+        class="sc-kLLXSd fcoDhu"
+      >
+        Reload analytics
+      </span>
+    </button>
+    <button
+      class="sc-ezWOiH fPvxvS admin-analyticsstyles__Control-sc-gt0i0n-2 dQsEUV"
+      type="button"
+    >
+      <span
+        class="sc-kLLXSd fcoDhu"
+      >
+        Show filters
+      </span>
+    </button>
+  </div>
+  <div
+    class="admin-analyticsstyles__CardContainer-sc-gt0i0n-0 cbOtJG"
+  />
+</div>
+`;
+
+exports[`<AdminAnalytics /> should render correctly with initial state 1`] = `
+<div>
+  <div
+    class="sc-ksZaOG fmXsYE"
+  >
+    <h1
+      class="sc-gsnTZi cTWewb sc-fEOsli cWAOmA"
+      id="admin-only"
+    >
+      Admin only
+    </h1>
+    <span
+      class="sc-dIouRR fiupoW"
+    >
+      You need to be logged in with an admin account to view this content.
+      <br />
+      <a
+        class="sc-iBkjds JLudk"
+        href="/login"
+      >
+        Got a different admin account? Log in here.
+      </a>
+    </span>
+  </div>
+</div>
+`;
+
+exports[`<AdminAnalytics /> should render correctly with loadError 1`] = `
+<div>
+  <div
+    aria-label="Loading"
+    class="sc-hHLeRK btzriW page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-bjUoiL cAgDxb"
+    >
+      <div
+        class="sc-idiyUo hyoeZZ"
+        style="margin-left: -0px;"
+      />
+    </div>
+    <div
+      class="sc-bjUoiL dpJsGE"
+      style="margin-top: 1.2rem;"
+    >
+      <div
+        class="sc-idiyUo hyoeZZ"
+        style="margin-left: -0px;"
+      />
+    </div>
+    <div
+      class="sc-bjUoiL dpJsGE"
+      style="margin-top: 1.2rem;"
+    >
+      <div
+        class="sc-idiyUo hyoeZZ"
+        style="margin-left: -0px;"
+      />
+    </div>
+    <div
+      class="sc-bjUoiL dpJsGE"
+      style="margin-top: 1.2rem;"
+    >
+      <div
+        class="sc-idiyUo hyoeZZ"
+        style="margin-left: -0px;"
+      />
+    </div>
+    <div
+      class="sc-bjUoiL dpJsGE"
+      style="margin-top: 1.2rem;"
+    >
+      <div
+        class="sc-idiyUo hyoeZZ"
+        style="margin-left: -0px;"
+      />
+    </div>
+  </div>
+  <div
+    class="sc-ksZaOG fmXsYE"
+  >
+    <h1
+      class="sc-dkzDqf ddFalQ sc-fEOsli bjQyEs"
+      id="this-is-taking-a-while.-maybe-something-isn't-quite-right..."
+    >
+      This is taking a while. Maybe something isn't quite right...
+    </h1>
+  </div>
+</div>
+`;
+
+exports[`<AdminAnalytics /> should render correctly with loading=true 1`] = `
+<div>
+  <div>
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <div
+        class="sc-kDDrLX emakin"
+      >
+        <a
+          class="sc-iBkjds JLudk"
+          href="/admin"
+        >
+          ⇠ Admin
+        </a>
+      </div>
+    </div>
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <h1
+        class="sc-bczRLJ hDLBIv sc-jqUVSM drQcdn"
+      >
+        Admin analytics
+      </h1>
+    </div>
+  </div>
+  <div>
+    <button
+      class="sc-ezWOiH bKdjvS admin-analyticsstyles__Control-sc-gt0i0n-2 dQsEUV"
+      disabled=""
+      type="button"
+    >
+      <span
+        class="sc-kLLXSd eFEJGx"
+      >
+        Reload analytics
+      </span>
+      <div
+        aria-hidden="true"
+        class="sc-ikZpkk hRXlwx"
+      >
+        <div
+          class="sc-iIPllB gCviMI"
+        >
+          <div
+            class="sc-gicCDI WhnWG"
+          />
+          <div
+            class="sc-gicCDI dSDyXS"
+          />
+          <div
+            class="sc-gicCDI SUODl"
+          />
+          <div
+            class="sc-gicCDI hVisjM"
+          />
+          <div
+            class="sc-gicCDI gqRbOv"
+          />
+          <div
+            class="sc-gicCDI gNCEsG"
+          />
+          <div
+            class="sc-gicCDI SHYZC"
+          />
+          <div
+            class="sc-gicCDI ifXAzy"
+          />
+        </div>
+      </div>
+    </button>
+    <button
+      class="sc-ezWOiH fPvxvS admin-analyticsstyles__Control-sc-gt0i0n-2 dQsEUV"
+      type="button"
+    >
+      <span
+        class="sc-kLLXSd fcoDhu"
+      >
+        Show filters
+      </span>
+    </button>
+  </div>
+  <div
+    class="admin-analyticsstyles__CardContainer-sc-gt0i0n-0 cbOtJG"
+  />
+</div>
+`;
+
+exports[`<AdminAnalytics /> should render correctly with user 1`] = `
+<div>
+  <div
+    class="sc-ksZaOG fmXsYE"
+  >
+    <h1
+      class="sc-gsnTZi cTWewb sc-fEOsli cWAOmA"
+      id="admin-only"
+    >
+      Admin only
+    </h1>
+    <span
+      class="sc-dIouRR fiupoW"
+    >
+      You need to be logged in with an admin account to view this content.
+      <br />
+      <a
+        class="sc-iBkjds JLudk"
+        href="/login"
+      >
+        Got a different admin account? Log in here.
+      </a>
+    </span>
+  </div>
+</div>
+`;

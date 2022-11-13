@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Status /> should render correctly 1`] = `
+<div>
+  <div
+    class="sc-bczRLJ ikoAiL page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-hAZoDl gTuHKu"
+    >
+      <h1
+        class="sc-dkzDqf grUNba sc-iqcoie fulViU"
+      >
+        Status
+      </h1>
+    </div>
+    <span
+      class="sc-gsnTZi bUAnoQ"
+    >
+      <img
+        alt="Build status"
+        src="GITHUB_REPO_URL/workflows/CI/badge.svg"
+      />
+      <br />
+      Built 
+      over 52 years ago
+      <br />
+      Started 
+      over 52 years ago
+      <br />
+      Environment 
+      test-node-env
+    </span>
+    <div
+      class="sc-fnykZs pkqjk sc-dIouRR hImLoc"
+    >
+      <h1
+        class="sc-hKMtZM bftfxT sc-idiyUo kEQaPd"
+        id="app-config"
+      >
+        App config
+      </h1>
+      <div
+        role="button"
+        style="margin-left: 0rem;"
+        tabindex="0"
+      >
+        ▶️ top-level:
+      </div>
+    </div>
+  </div>
+</div>
+`;

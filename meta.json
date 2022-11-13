@@ -1,0 +1,6 @@
+{
+  "is_webapp": true,
+  "docker_port": 3000,
+  "server_name": "isithappyhour.net",
+  "redirect_to_www": true
+}

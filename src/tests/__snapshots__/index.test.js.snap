@@ -1,0 +1,115 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<HomePage /> should render correctly 1`] = `
+<div>
+  <main
+    class="main-wrapperstyles__StyledMainWrapper-sc-hveppy-0 iMOsNu common-layoutstyles__StyledMainWrapper-sc-1orix3m-0 bnxJXa"
+    id="main"
+  >
+    <div
+      class="sc-bczRLJ gmscGQ page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+      width="default"
+    >
+      <div
+        class="sc-ftvSup laBHLg"
+      >
+        <style>
+          .js .animated-content__wrapper--hidden {
+  padding-top: 4rem;
+  opacity: 0.01;
+}
+        </style>
+        <div
+          class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+        >
+          <div
+            class="homestyles__AnswerWrapper-sc-d0smz9-0 iWmeiL"
+          >
+            <span
+              class="sc-jSMfEi cSTHCK homestyles__Answer-sc-d0smz9-1 kSqXIm"
+            >
+              YES!
+            </span>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-ftvSup laBHLg"
+      >
+        <style>
+          .js .animated-content__wrapper--hidden {
+  padding-top: 4rem;
+  opacity: 0.01;
+}
+        </style>
+        <div
+          class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+        >
+          <span
+            class="sc-jSMfEi kskSGE"
+          >
+            It's happy hour somewhere in the world. Cheers 🍻
+          </span>
+        </div>
+      </div>
+    </div>
+  </main>
+  <div
+    class="sc-ftvSup laBHLg"
+  >
+    <style>
+      .js .animated-content__wrapper--hidden {
+  opacity: 0.01;
+}
+    </style>
+    <div
+      class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+    >
+      <footer
+        class="footerstyles__Container-sc-ojjd19-0 beXJfO"
+        id="footer"
+      >
+        <div
+          class="footerstyles__StyledTechSpecs-sc-ojjd19-1 bxZcwO"
+        >
+          <span
+            class="sc-breuTD fxMIXR tech-specsstyles__StyledParagraph-sc-1ysn53a-0 glkFZI"
+          >
+            Made with love by
+             
+            <a
+              aria-label="George (opens in a new tab)"
+              class="sc-iqcoie grFwrp"
+              href="https://www.georgegillams.co.uk/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              George
+              <div
+                class="sc-crXcEl cglokn"
+              >
+                <svg
+                  class="sc-kDDrLX bMmoyM sc-evZas eYdasH"
+                  height="18"
+                  viewBox="0 0 24 24"
+                  width="18"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12.5 11.3c.4.4 1 .4 1.4 0L19 6.2V9c0 .6.4 1 1 1s1-.4 1-1V4c0-.6-.4-1-1-1h-5c-.6 0-1 .4-1 1s.4 1 1 1h2.4l-4.9 4.9c-.4.4-.4 1 0 1.4zM19 19c0 1.1-.9 2-2 2H5c-1.1 0-2-.9-2-2V7c0-1.1.9-2 2-2h7v2H5v12h12v-7h2"
+                  />
+                </svg>
+              </div>
+            </a>
+          </span>
+          <span
+            class="sc-breuTD fxMIXR tech-specsstyles__StyledParagraph-sc-1ysn53a-0 glkFZI"
+          >
+            Please do not share with anyone under the legal purchase age for alcohol. Drink Responsibly.
+          </span>
+        </div>
+      </footer>
+    </div>
+  </div>
+</div>
+`;

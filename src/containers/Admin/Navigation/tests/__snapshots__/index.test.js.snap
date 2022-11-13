@@ -1,0 +1,371 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AdminNavigation /> should render correctly - index 1`] = `
+<div>
+  <div
+    aria-label="Loading"
+  >
+    <div
+      class="sc-bjUoiL cAgDxb"
+    >
+      <div
+        class="sc-idiyUo hyoeZZ"
+        style="margin-left: -0px;"
+      />
+    </div>
+    <div
+      class="admin-navigationstyles__CardContainer-sc-n2t86e-0 gCaCSq"
+    >
+      <div
+        class="sc-bjUoiL dpJsGE"
+      >
+        <div
+          class="sc-idiyUo hyoeZZ"
+          style="margin-left: -0px;"
+        />
+      </div>
+      <div
+        class="sc-bjUoiL dpJsGE"
+      >
+        <div
+          class="sc-idiyUo hyoeZZ"
+          style="margin-left: -0px;"
+        />
+      </div>
+      <div
+        class="sc-bjUoiL dpJsGE"
+      >
+        <div
+          class="sc-idiyUo hyoeZZ"
+          style="margin-left: -0px;"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<AdminNavigation /> should render correctly with admin user 1`] = `
+<div>
+  <div
+    class="sc-bZnhIo bUYDFS"
+    width="default"
+  >
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <h1
+        class="sc-bczRLJ hDLBIv sc-jqUVSM cFomsy"
+      >
+        Admin
+      </h1>
+    </div>
+    <div
+      class="admin-navigationstyles__CardContainer-sc-n2t86e-0 gCaCSq"
+    >
+      <a
+        aria-label="Debug"
+        class="sc-hHLeRK kOvChB sc-ezWOiH blrmAI admin-navigationstyles__StyledFeatureCard-sc-n2t86e-1 FFmcP"
+        href="/debug"
+      >
+        <div
+          class="sc-dmRaPn dCnxDV"
+        >
+          <div
+            class="sc-kgflAQ jLoDNj"
+          />
+          <div
+            class="sc-fLlhyt lbdYqJ"
+          >
+            <div
+              aria-hidden="true"
+              class="sc-bZkfAO kiHbjz"
+            >
+              <div
+                class="sc-kLLXSd cfIWdF date container"
+              />
+              <div
+                class="sc-ikZpkk beDUqZ"
+              >
+                <h1
+                  class="sc-gsnTZi cTWewb"
+                >
+                  Debug
+                </h1>
+              </div>
+            </div>
+          </div>
+        </div>
+      </a>
+      <a
+        aria-label="Analytics"
+        class="sc-hHLeRK kOvChB sc-ezWOiH blrmAI admin-navigationstyles__StyledFeatureCard-sc-n2t86e-1 FFmcP"
+        href="/admin/analytics"
+      >
+        <div
+          class="sc-dmRaPn dCnxDV"
+        >
+          <div
+            class="sc-kgflAQ jLoDNj"
+          />
+          <div
+            class="sc-fLlhyt lbdYqJ"
+          >
+            <div
+              aria-hidden="true"
+              class="sc-bZkfAO kiHbjz"
+            >
+              <div
+                class="sc-kLLXSd cfIWdF date container"
+              />
+              <div
+                class="sc-ikZpkk beDUqZ"
+              >
+                <h1
+                  class="sc-gsnTZi cTWewb"
+                >
+                  Analytics
+                </h1>
+              </div>
+            </div>
+          </div>
+        </div>
+      </a>
+      <a
+        aria-label="Emails"
+        class="sc-hHLeRK kOvChB sc-ezWOiH blrmAI admin-navigationstyles__StyledFeatureCard-sc-n2t86e-1 FFmcP"
+        href="/admin/emails"
+      >
+        <div
+          class="sc-dmRaPn dCnxDV"
+        >
+          <div
+            class="sc-kgflAQ jLoDNj"
+          />
+          <div
+            class="sc-fLlhyt lbdYqJ"
+          >
+            <div
+              aria-hidden="true"
+              class="sc-bZkfAO kiHbjz"
+            >
+              <div
+                class="sc-kLLXSd cfIWdF date container"
+              />
+              <div
+                class="sc-ikZpkk beDUqZ"
+              >
+                <h1
+                  class="sc-gsnTZi cTWewb"
+                >
+                  Emails
+                </h1>
+              </div>
+            </div>
+          </div>
+        </div>
+      </a>
+      <a
+        aria-label="Notifications"
+        class="sc-hHLeRK kOvChB sc-ezWOiH blrmAI admin-navigationstyles__StyledFeatureCard-sc-n2t86e-1 FFmcP"
+        href="/admin/notifications"
+      >
+        <div
+          class="sc-dmRaPn dCnxDV"
+        >
+          <div
+            class="sc-kgflAQ jLoDNj"
+          />
+          <div
+            class="sc-fLlhyt lbdYqJ"
+          >
+            <div
+              aria-hidden="true"
+              class="sc-bZkfAO kiHbjz"
+            >
+              <div
+                class="sc-kLLXSd cfIWdF date container"
+              />
+              <div
+                class="sc-ikZpkk beDUqZ"
+              >
+                <h1
+                  class="sc-gsnTZi cTWewb"
+                >
+                  Notifications
+                </h1>
+              </div>
+            </div>
+          </div>
+        </div>
+      </a>
+      <a
+        aria-label="Users"
+        class="sc-hHLeRK kOvChB sc-ezWOiH blrmAI admin-navigationstyles__StyledFeatureCard-sc-n2t86e-1 FFmcP"
+        href="/admin/users"
+      >
+        <div
+          class="sc-dmRaPn dCnxDV"
+        >
+          <div
+            class="sc-kgflAQ jLoDNj"
+          />
+          <div
+            class="sc-fLlhyt lbdYqJ"
+          >
+            <div
+              aria-hidden="true"
+              class="sc-bZkfAO kiHbjz"
+            >
+              <div
+                class="sc-kLLXSd cfIWdF date container"
+              />
+              <div
+                class="sc-ikZpkk beDUqZ"
+              >
+                <h1
+                  class="sc-gsnTZi cTWewb"
+                >
+                  Users
+                </h1>
+              </div>
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<AdminNavigation /> should render correctly with auth error 1`] = `
+<div>
+  <div
+    aria-label="Loading"
+  >
+    <div
+      class="sc-bjUoiL cAgDxb"
+    >
+      <div
+        class="sc-idiyUo hyoeZZ"
+        style="margin-left: -0px;"
+      />
+    </div>
+    <div
+      class="admin-navigationstyles__CardContainer-sc-n2t86e-0 gCaCSq"
+    >
+      <div
+        class="sc-bjUoiL dpJsGE"
+      >
+        <div
+          class="sc-idiyUo hyoeZZ"
+          style="margin-left: -0px;"
+        />
+      </div>
+      <div
+        class="sc-bjUoiL dpJsGE"
+      >
+        <div
+          class="sc-idiyUo hyoeZZ"
+          style="margin-left: -0px;"
+        />
+      </div>
+      <div
+        class="sc-bjUoiL dpJsGE"
+      >
+        <div
+          class="sc-idiyUo hyoeZZ"
+          style="margin-left: -0px;"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    class="sc-ksZaOG fmXsYE"
+  >
+    <h1
+      class="sc-dkzDqf ddFalQ sc-fEOsli bjQyEs"
+      id="this-is-taking-a-while.-maybe-something-isn't-quite-right..."
+    >
+      This is taking a while. Maybe something isn't quite right...
+    </h1>
+  </div>
+</div>
+`;
+
+exports[`<AdminNavigation /> should render correctly with initial state 1`] = `
+<div>
+  <div
+    aria-label="Loading"
+  >
+    <div
+      class="sc-bjUoiL cAgDxb"
+    >
+      <div
+        class="sc-idiyUo hyoeZZ"
+        style="margin-left: -0px;"
+      />
+    </div>
+    <div
+      class="admin-navigationstyles__CardContainer-sc-n2t86e-0 gCaCSq"
+    >
+      <div
+        class="sc-bjUoiL dpJsGE"
+      >
+        <div
+          class="sc-idiyUo hyoeZZ"
+          style="margin-left: -0px;"
+        />
+      </div>
+      <div
+        class="sc-bjUoiL dpJsGE"
+      >
+        <div
+          class="sc-idiyUo hyoeZZ"
+          style="margin-left: -0px;"
+        />
+      </div>
+      <div
+        class="sc-bjUoiL dpJsGE"
+      >
+        <div
+          class="sc-idiyUo hyoeZZ"
+          style="margin-left: -0px;"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<AdminNavigation /> should render correctly with user 1`] = `
+<div>
+  <div
+    class="sc-bZnhIo bUYDFS"
+    width="default"
+  >
+    <div
+      class="sc-ksZaOG fmXsYE"
+    >
+      <h1
+        class="sc-gsnTZi cTWewb sc-fEOsli cWAOmA"
+        id="admin-only"
+      >
+        Admin only
+      </h1>
+      <span
+        class="sc-jdAMXn hvPhpF"
+      >
+        You need to be logged in with an admin account to view this content.
+        <br />
+        <a
+          class="sc-iBkjds JLudk"
+          href="/login"
+        >
+          Got a different admin account? Log in here.
+        </a>
+      </span>
+    </div>
+  </div>
+</div>
+`;

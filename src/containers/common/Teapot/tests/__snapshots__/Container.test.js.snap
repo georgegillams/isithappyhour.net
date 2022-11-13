@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Teapot /> should render correctly 1`] = `
+<div>
+  <div
+    class="sc-bczRLJ eVJKhe page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-hAZoDl gTuHKu"
+    >
+      <h1
+        class="sc-dkzDqf grUNba sc-iqcoie fulViU"
+      >
+        Error 418 - I'm a teapot.
+      </h1>
+    </div>
+    <div
+      class="sc-breuTD bTEPBS"
+    >
+      <style>
+        .js .animated-content__wrapper--hidden {
+  opacity: 0.01;
+}
+      </style>
+      <div
+        class="sc-evZas ggWrhg animated-content__wrapper--hidden"
+      >
+        <span
+          class="sc-gsnTZi bUAnoQ"
+        >
+          Coffee cannot be brewed inside a teapot context. The resulting entity body MAY be short and stout.
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;

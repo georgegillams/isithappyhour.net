@@ -1,0 +1,130 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MagicLogin /> should render correctly - index 1`] = `
+<div>
+  <div
+    class="sc-fnykZs cNMYuP page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <h1
+        class="sc-bczRLJ hDLBIv sc-jqUVSM cFomsy"
+      >
+        Logging in
+      </h1>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<MagicLogin /> should render correctly with initial state 1`] = `
+<div>
+  <div
+    class="sc-fnykZs cNMYuP page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <h1
+        class="sc-bczRLJ hDLBIv sc-jqUVSM cFomsy"
+      >
+        Logging in
+      </h1>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<MagicLogin /> should render correctly with logInError 1`] = `
+<div>
+  <div
+    class="sc-fnykZs cNMYuP page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <h1
+        class="sc-bczRLJ hDLBIv sc-jqUVSM cFomsy"
+      >
+        Logging in
+      </h1>
+    </div>
+    <span
+      class="sc-ksZaOG cQKWUS"
+    >
+      <span
+        class="sc-hAZoDl hWlXdd"
+      >
+        Something went wrong logging you in
+        <br />
+        Invalid session
+        <br />
+        <a
+          class="sc-iBkjds JLudk"
+          href="/login"
+        >
+          Try logging in again
+        </a>
+      </span>
+    </span>
+  </div>
+</div>
+`;
+
+exports[`<MagicLogin /> should render correctly with loggingIn=true 1`] = `
+<div>
+  <div
+    class="sc-fnykZs cNMYuP page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <h1
+        class="sc-bczRLJ hDLBIv sc-jqUVSM cFomsy"
+      >
+        Logging in
+      </h1>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<MagicLogin /> should render correctly with user 1`] = `
+<div>
+  <div
+    class="sc-fnykZs cNMYuP page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <h1
+        class="sc-bczRLJ hDLBIv sc-jqUVSM cFomsy"
+      >
+        Logged in
+      </h1>
+    </div>
+    <span
+      class="sc-ksZaOG cQKWUS"
+    >
+      Logged in!
+      <br />
+      You will now be redirected to the 
+      account
+       page
+      <br />
+      <a
+        class="sc-iBkjds JLudk"
+        href="/account"
+      >
+        Not been redirected? Click here
+      </a>
+    </span>
+  </div>
+</div>
+`;

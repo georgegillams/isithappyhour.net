@@ -1,0 +1,112 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<EmailVerification /> should render correctly - index 1`] = `
+<div>
+  <div
+    class="sc-fnykZs cNMYuP page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <h1
+        class="sc-bczRLJ hDLBIv sc-jqUVSM cFomsy"
+      >
+        Confirming email
+      </h1>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<EmailVerification /> should render correctly with initial state 1`] = `
+<div>
+  <div
+    class="sc-fnykZs cNMYuP page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <h1
+        class="sc-bczRLJ hDLBIv sc-jqUVSM cFomsy"
+      >
+        Confirming email
+      </h1>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<EmailVerification /> should render correctly with user 1`] = `
+<div>
+  <div
+    class="sc-fnykZs cNMYuP page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <h1
+        class="sc-bczRLJ hDLBIv sc-jqUVSM cFomsy"
+      >
+        Email confirmed
+      </h1>
+    </div>
+    <span
+      class="sc-ksZaOG cQKWUS"
+    >
+      Thank you for confirming your email address
+    </span>
+  </div>
+</div>
+`;
+
+exports[`<EmailVerification /> should render correctly with verifyError 1`] = `
+<div>
+  <div
+    class="sc-fnykZs cNMYuP page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <h1
+        class="sc-bczRLJ hDLBIv sc-jqUVSM cFomsy"
+      >
+        Confirming email
+      </h1>
+    </div>
+    <span
+      class="sc-ksZaOG cQKWUS"
+    >
+      <span
+        class="sc-hAZoDl hWlXdd"
+      >
+        Something went wrong whilst confirming your email
+        <br />
+        Invalid verification link
+      </span>
+    </span>
+  </div>
+</div>
+`;
+
+exports[`<EmailVerification /> should render correctly with verifying=true 1`] = `
+<div>
+  <div
+    class="sc-fnykZs cNMYuP page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <h1
+        class="sc-bczRLJ hDLBIv sc-jqUVSM cFomsy"
+      >
+        Confirming email
+      </h1>
+    </div>
+  </div>
+</div>
+`;

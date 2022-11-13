@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PageTitle /> Should render correctly 1`] = `
+<div>
+  <div
+    class="sc-breuTD gWTOEy"
+  >
+    <h1
+      class="sc-bczRLJ hDLBIv sc-jqUVSM cFomsy"
+    >
+      Test
+    </h1>
+  </div>
+  some text
+</div>
+`;
+
+exports[`<PageTitle /> Should render correctly with custom className 1`] = `
+<div>
+  <div
+    class="sc-breuTD gWTOEy"
+  >
+    <h1
+      class="sc-bczRLJ hDLBIv sc-jqUVSM cFomsy test-custom-classname"
+    >
+      Test
+    </h1>
+  </div>
+  some text
+</div>
+`;
+
+exports[`<PageTitle /> Should render correctly with other props 1`] = `
+<div>
+  <div
+    class="sc-breuTD gWTOEy"
+  >
+    <div
+      class="sc-kDDrLX emakin"
+    >
+      <a
+        class="sc-iBkjds JLudk"
+        href="/test"
+      >
+        ⇠ test
+      </a>
+    </div>
+  </div>
+  <div
+    class="sc-breuTD gWTOEy"
+  >
+    <h1
+      class="sc-bczRLJ hDLBIv sc-jqUVSM drQcdn"
+    >
+      Test
+    </h1>
+  </div>
+  some text
+</div>
+`;

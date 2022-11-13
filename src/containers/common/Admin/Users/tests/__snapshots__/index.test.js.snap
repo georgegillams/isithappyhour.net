@@ -1,0 +1,1458 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AdminUsers /> should render correctly - index 1`] = `
+<div>
+  <div
+    aria-label="Loading"
+    class="sc-bZkfAO gpgCtV page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-bjUoiL cAgDxb"
+    >
+      <div
+        class="sc-idiyUo hyoeZZ"
+        style="margin-left: -0px;"
+      />
+    </div>
+    <div
+      class="sc-bjUoiL bDehF"
+      style="margin-top: 1.2rem;"
+    >
+      <div
+        class="sc-idiyUo hyoeZZ"
+        style="margin-left: -0px;"
+      />
+    </div>
+    <div
+      class="sc-bjUoiL bDehF"
+      style="margin-top: 1.2rem;"
+    >
+      <div
+        class="sc-idiyUo hyoeZZ"
+        style="margin-left: -0px;"
+      />
+    </div>
+    <div
+      class="sc-bjUoiL bDehF"
+      style="margin-top: 1.2rem;"
+    >
+      <div
+        class="sc-idiyUo hyoeZZ"
+        style="margin-left: -0px;"
+      />
+    </div>
+    <div
+      class="sc-bjUoiL bDehF"
+      style="margin-top: 1.2rem;"
+    >
+      <div
+        class="sc-idiyUo hyoeZZ"
+        style="margin-left: -0px;"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<AdminUsers /> should render correctly with admin user 1`] = `
+<div>
+  <div>
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <div
+        class="sc-kDDrLX emakin"
+      >
+        <a
+          class="sc-iBkjds JLudk"
+          href="/admin"
+        >
+          ⇠ Admin
+        </a>
+      </div>
+    </div>
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <h1
+        class="sc-bczRLJ hDLBIv sc-jqUVSM drQcdn"
+      >
+        Admin users
+      </h1>
+    </div>
+  </div>
+  <div
+    class="stackstyles__StyledHStack-sc-1m733wj-1 ilBDHD"
+  >
+    <button
+      class="sc-dmRaPn dquIzU outer"
+      type="button"
+    >
+      <span
+        class="sc-fLlhyt rsaHd"
+      >
+        Reload users
+      </span>
+    </button>
+    <button
+      class="sc-dmRaPn dquIzU outer"
+      type="button"
+    >
+      <span
+        class="sc-fLlhyt rsaHd"
+      >
+        Show filters
+      </span>
+    </button>
+  </div>
+  <div
+    class="split-detail-viewstyles__Outer-sc-1o7lavp-0 dsmGNQ"
+  >
+    <div
+      class="split-detail-viewstyles__ListView-sc-1o7lavp-1 dlOQM"
+    >
+      <div
+        class="stackstyles__StyledVStack-sc-1m733wj-0 hxKxqM"
+      >
+        <a
+          class="sc-cxabCf jXIYjw"
+          href="/admin/users?highlight=new"
+        >
+          <div
+            class="sc-llJcti bXPFSt"
+          >
+            <div
+              class="sc-iIPllB eHdWmr"
+            />
+            <div
+              class="sc-gicCDI kuVafx"
+            >
+              <div
+                class="split-detail-itemstyles__Item-sc-5gess9-0 cHrFus"
+              >
+                <div
+                  class="sc-ksZaOG fmXsYE"
+                >
+                  <h1
+                    class="sc-dkzDqf ddFalQ sc-fEOsli bjQyEs"
+                    id="new-+"
+                  >
+                    New +
+                  </h1>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<AdminUsers /> should render correctly with createError 1`] = `
+<div>
+  <div>
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <div
+        class="sc-kDDrLX emakin"
+      >
+        <a
+          class="sc-iBkjds JLudk"
+          href="/admin"
+        >
+          ⇠ Admin
+        </a>
+      </div>
+    </div>
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <h1
+        class="sc-bczRLJ hDLBIv sc-jqUVSM drQcdn"
+      >
+        Admin users
+      </h1>
+    </div>
+  </div>
+  <div
+    class="stackstyles__StyledHStack-sc-1m733wj-1 ilBDHD"
+  >
+    <button
+      class="sc-dmRaPn dquIzU outer"
+      type="button"
+    >
+      <span
+        class="sc-fLlhyt rsaHd"
+      >
+        Reload users
+      </span>
+    </button>
+    <button
+      class="sc-dmRaPn dquIzU outer"
+      type="button"
+    >
+      <span
+        class="sc-fLlhyt rsaHd"
+      >
+        Show filters
+      </span>
+    </button>
+  </div>
+  <div
+    class="split-detail-viewstyles__Outer-sc-1o7lavp-0 dsmGNQ"
+  >
+    <div
+      class="split-detail-viewstyles__ListView-sc-1o7lavp-1 dlOQM"
+    >
+      <div
+        class="stackstyles__StyledVStack-sc-1m733wj-0 hxKxqM"
+      >
+        <a
+          class="sc-cxabCf jXIYjw"
+          href="/admin/users?highlight=new"
+        >
+          <div
+            class="sc-llJcti bXPFSt"
+          >
+            <div
+              class="sc-iIPllB eHdWmr"
+            />
+            <div
+              class="sc-gicCDI kuVafx"
+            >
+              <div
+                class="split-detail-itemstyles__Item-sc-5gess9-0 cHrFus"
+              >
+                <div
+                  class="sc-ksZaOG fmXsYE"
+                >
+                  <h1
+                    class="sc-dkzDqf ddFalQ sc-fEOsli bjQyEs"
+                    id="new-+"
+                  >
+                    New +
+                  </h1>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<AdminUsers /> should render correctly with creating=true 1`] = `
+<div>
+  <div>
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <div
+        class="sc-kDDrLX emakin"
+      >
+        <a
+          class="sc-iBkjds JLudk"
+          href="/admin"
+        >
+          ⇠ Admin
+        </a>
+      </div>
+    </div>
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <h1
+        class="sc-bczRLJ hDLBIv sc-jqUVSM drQcdn"
+      >
+        Admin users
+      </h1>
+    </div>
+  </div>
+  <div
+    class="stackstyles__StyledHStack-sc-1m733wj-1 ilBDHD"
+  >
+    <button
+      class="sc-dmRaPn dquIzU outer"
+      type="button"
+    >
+      <span
+        class="sc-fLlhyt rsaHd"
+      >
+        Reload users
+      </span>
+    </button>
+    <button
+      class="sc-dmRaPn dquIzU outer"
+      type="button"
+    >
+      <span
+        class="sc-fLlhyt rsaHd"
+      >
+        Show filters
+      </span>
+    </button>
+  </div>
+  <div
+    class="split-detail-viewstyles__Outer-sc-1o7lavp-0 dsmGNQ"
+  >
+    <div
+      class="split-detail-viewstyles__ListView-sc-1o7lavp-1 dlOQM"
+    >
+      <div
+        class="stackstyles__StyledVStack-sc-1m733wj-0 hxKxqM"
+      >
+        <a
+          class="sc-cxabCf jXIYjw"
+          href="/admin/users?highlight=new"
+        >
+          <div
+            class="sc-llJcti bXPFSt"
+          >
+            <div
+              class="sc-iIPllB eHdWmr"
+            />
+            <div
+              class="sc-gicCDI kuVafx"
+            >
+              <div
+                class="split-detail-itemstyles__Item-sc-5gess9-0 cHrFus"
+              >
+                <div
+                  class="sc-ksZaOG fmXsYE"
+                >
+                  <h1
+                    class="sc-dkzDqf ddFalQ sc-fEOsli bjQyEs"
+                    id="new-+"
+                  >
+                    New +
+                  </h1>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<AdminUsers /> should render correctly with initial state 1`] = `
+<div>
+  <div
+    aria-label="Loading"
+    class="sc-bZkfAO gpgCtV page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-bjUoiL cAgDxb"
+    >
+      <div
+        class="sc-idiyUo hyoeZZ"
+        style="margin-left: -0px;"
+      />
+    </div>
+    <div
+      class="sc-bjUoiL bDehF"
+      style="margin-top: 1.2rem;"
+    >
+      <div
+        class="sc-idiyUo hyoeZZ"
+        style="margin-left: -0px;"
+      />
+    </div>
+    <div
+      class="sc-bjUoiL bDehF"
+      style="margin-top: 1.2rem;"
+    >
+      <div
+        class="sc-idiyUo hyoeZZ"
+        style="margin-left: -0px;"
+      />
+    </div>
+    <div
+      class="sc-bjUoiL bDehF"
+      style="margin-top: 1.2rem;"
+    >
+      <div
+        class="sc-idiyUo hyoeZZ"
+        style="margin-left: -0px;"
+      />
+    </div>
+    <div
+      class="sc-bjUoiL bDehF"
+      style="margin-top: 1.2rem;"
+    >
+      <div
+        class="sc-idiyUo hyoeZZ"
+        style="margin-left: -0px;"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<AdminUsers /> should render correctly with loadError 1`] = `
+<div>
+  <div>
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <div
+        class="sc-kDDrLX emakin"
+      >
+        <a
+          class="sc-iBkjds JLudk"
+          href="/admin"
+        >
+          ⇠ Admin
+        </a>
+      </div>
+    </div>
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <h1
+        class="sc-bczRLJ hDLBIv sc-jqUVSM drQcdn"
+      >
+        Admin users
+      </h1>
+    </div>
+  </div>
+  <div
+    class="stackstyles__StyledHStack-sc-1m733wj-1 ilBDHD"
+  >
+    <button
+      class="sc-dmRaPn dquIzU outer"
+      type="button"
+    >
+      <span
+        class="sc-fLlhyt rsaHd"
+      >
+        Reload users
+      </span>
+    </button>
+    <button
+      class="sc-dmRaPn dquIzU outer"
+      type="button"
+    >
+      <span
+        class="sc-fLlhyt rsaHd"
+      >
+        Show filters
+      </span>
+    </button>
+  </div>
+  <span
+    class="sc-ezWOiH jeKMJn"
+  >
+    <span
+      class="sc-bBXxYQ xoqTp"
+    >
+      Could not load users
+      <br />
+      Something went wrong
+    </span>
+  </span>
+  <div
+    class="split-detail-viewstyles__Outer-sc-1o7lavp-0 dsmGNQ"
+  >
+    <div
+      class="split-detail-viewstyles__ListView-sc-1o7lavp-1 dlOQM"
+    >
+      <div
+        class="stackstyles__StyledVStack-sc-1m733wj-0 hxKxqM"
+      >
+        <a
+          class="sc-cxabCf jXIYjw"
+          href="/admin/users?highlight=new"
+        >
+          <div
+            class="sc-llJcti bXPFSt"
+          >
+            <div
+              class="sc-iIPllB eHdWmr"
+            />
+            <div
+              class="sc-gicCDI kuVafx"
+            >
+              <div
+                class="split-detail-itemstyles__Item-sc-5gess9-0 cHrFus"
+              >
+                <div
+                  class="sc-ksZaOG fmXsYE"
+                >
+                  <h1
+                    class="sc-dkzDqf ddFalQ sc-fEOsli bjQyEs"
+                    id="new-+"
+                  >
+                    New +
+                  </h1>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<AdminUsers /> should render correctly with loading=true 1`] = `
+<div>
+  <div>
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <div
+        class="sc-kDDrLX emakin"
+      >
+        <a
+          class="sc-iBkjds JLudk"
+          href="/admin"
+        >
+          ⇠ Admin
+        </a>
+      </div>
+    </div>
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <h1
+        class="sc-bczRLJ hDLBIv sc-jqUVSM drQcdn"
+      >
+        Admin users
+      </h1>
+    </div>
+  </div>
+  <div
+    class="stackstyles__StyledHStack-sc-1m733wj-1 ilBDHD"
+  >
+    <button
+      class="sc-dmRaPn hixPQQ outer"
+      disabled=""
+      type="button"
+    >
+      <span
+        class="sc-fLlhyt fDdCwi"
+      >
+        Reload users
+      </span>
+      <div
+        aria-hidden="true"
+        class="sc-bBrHrO eWduKa"
+      >
+        <div
+          class="sc-dIouRR kROsgN"
+        >
+          <div
+            class="sc-hHLeRK ixHZGt"
+          />
+          <div
+            class="sc-hHLeRK eosujF"
+          />
+          <div
+            class="sc-hHLeRK duXPhG"
+          />
+          <div
+            class="sc-hHLeRK fLagWP"
+          />
+          <div
+            class="sc-hHLeRK eWiwVk"
+          />
+          <div
+            class="sc-hHLeRK kTdNEt"
+          />
+          <div
+            class="sc-hHLeRK cfoRKl"
+          />
+          <div
+            class="sc-hHLeRK hBeubl"
+          />
+        </div>
+      </div>
+    </button>
+    <button
+      class="sc-dmRaPn dquIzU outer"
+      type="button"
+    >
+      <span
+        class="sc-fLlhyt rsaHd"
+      >
+        Show filters
+      </span>
+    </button>
+  </div>
+  <div
+    class="split-detail-viewstyles__Outer-sc-1o7lavp-0 dsmGNQ"
+  >
+    <div
+      class="split-detail-viewstyles__ListView-sc-1o7lavp-1 dlOQM"
+    >
+      <div
+        class="stackstyles__StyledVStack-sc-1m733wj-0 hxKxqM"
+      >
+        <a
+          class="sc-cxabCf jXIYjw"
+          href="/admin/users?highlight=new"
+        >
+          <div
+            class="sc-llJcti bXPFSt"
+          >
+            <div
+              class="sc-iIPllB eHdWmr"
+            />
+            <div
+              class="sc-gicCDI kuVafx"
+            >
+              <div
+                class="split-detail-itemstyles__Item-sc-5gess9-0 cHrFus"
+              >
+                <div
+                  class="sc-ksZaOG fmXsYE"
+                >
+                  <h1
+                    class="sc-dkzDqf ddFalQ sc-fEOsli bjQyEs"
+                    id="new-+"
+                  >
+                    New +
+                  </h1>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<AdminUsers /> should render correctly with removeError 1`] = `
+<div>
+  <div>
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <div
+        class="sc-kDDrLX emakin"
+      >
+        <a
+          class="sc-iBkjds JLudk"
+          href="/admin"
+        >
+          ⇠ Admin
+        </a>
+      </div>
+    </div>
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <h1
+        class="sc-bczRLJ hDLBIv sc-jqUVSM drQcdn"
+      >
+        Admin users
+      </h1>
+    </div>
+  </div>
+  <div
+    class="stackstyles__StyledHStack-sc-1m733wj-1 ilBDHD"
+  >
+    <button
+      class="sc-dmRaPn dquIzU outer"
+      type="button"
+    >
+      <span
+        class="sc-fLlhyt rsaHd"
+      >
+        Reload users
+      </span>
+    </button>
+    <button
+      class="sc-dmRaPn dquIzU outer"
+      type="button"
+    >
+      <span
+        class="sc-fLlhyt rsaHd"
+      >
+        Show filters
+      </span>
+    </button>
+  </div>
+  <div
+    class="split-detail-viewstyles__Outer-sc-1o7lavp-0 dsmGNQ"
+  >
+    <div
+      class="split-detail-viewstyles__ListView-sc-1o7lavp-1 dlOQM"
+    >
+      <div
+        class="stackstyles__StyledVStack-sc-1m733wj-0 hxKxqM"
+      >
+        <a
+          class="sc-cxabCf jXIYjw"
+          href="/admin/users?highlight=new"
+        >
+          <div
+            class="sc-llJcti bXPFSt"
+          >
+            <div
+              class="sc-iIPllB eHdWmr"
+            />
+            <div
+              class="sc-gicCDI kuVafx"
+            >
+              <div
+                class="split-detail-itemstyles__Item-sc-5gess9-0 cHrFus"
+              >
+                <div
+                  class="sc-ksZaOG fmXsYE"
+                >
+                  <h1
+                    class="sc-dkzDqf ddFalQ sc-fEOsli bjQyEs"
+                    id="new-+"
+                  >
+                    New +
+                  </h1>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<AdminUsers /> should render correctly with removing=true 1`] = `
+<div>
+  <div>
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <div
+        class="sc-kDDrLX emakin"
+      >
+        <a
+          class="sc-iBkjds JLudk"
+          href="/admin"
+        >
+          ⇠ Admin
+        </a>
+      </div>
+    </div>
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <h1
+        class="sc-bczRLJ hDLBIv sc-jqUVSM drQcdn"
+      >
+        Admin users
+      </h1>
+    </div>
+  </div>
+  <div
+    class="stackstyles__StyledHStack-sc-1m733wj-1 ilBDHD"
+  >
+    <button
+      class="sc-dmRaPn dquIzU outer"
+      type="button"
+    >
+      <span
+        class="sc-fLlhyt rsaHd"
+      >
+        Reload users
+      </span>
+    </button>
+    <button
+      class="sc-dmRaPn dquIzU outer"
+      type="button"
+    >
+      <span
+        class="sc-fLlhyt rsaHd"
+      >
+        Show filters
+      </span>
+    </button>
+  </div>
+  <div
+    class="split-detail-viewstyles__Outer-sc-1o7lavp-0 dsmGNQ"
+  >
+    <div
+      class="split-detail-viewstyles__ListView-sc-1o7lavp-1 dlOQM"
+    >
+      <div
+        class="stackstyles__StyledVStack-sc-1m733wj-0 hxKxqM"
+      >
+        <a
+          class="sc-cxabCf jXIYjw"
+          href="/admin/users?highlight=new"
+        >
+          <div
+            class="sc-llJcti bXPFSt"
+          >
+            <div
+              class="sc-iIPllB eHdWmr"
+            />
+            <div
+              class="sc-gicCDI kuVafx"
+            >
+              <div
+                class="split-detail-itemstyles__Item-sc-5gess9-0 cHrFus"
+              >
+                <div
+                  class="sc-ksZaOG fmXsYE"
+                >
+                  <h1
+                    class="sc-dkzDqf ddFalQ sc-fEOsli bjQyEs"
+                    id="new-+"
+                  >
+                    New +
+                  </h1>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<AdminUsers /> should render correctly with requestError 1`] = `
+<div>
+  <div>
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <div
+        class="sc-kDDrLX emakin"
+      >
+        <a
+          class="sc-iBkjds JLudk"
+          href="/admin"
+        >
+          ⇠ Admin
+        </a>
+      </div>
+    </div>
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <h1
+        class="sc-bczRLJ hDLBIv sc-jqUVSM drQcdn"
+      >
+        Admin users
+      </h1>
+    </div>
+  </div>
+  <div
+    class="stackstyles__StyledHStack-sc-1m733wj-1 ilBDHD"
+  >
+    <button
+      class="sc-dmRaPn dquIzU outer"
+      type="button"
+    >
+      <span
+        class="sc-fLlhyt rsaHd"
+      >
+        Reload users
+      </span>
+    </button>
+    <button
+      class="sc-dmRaPn dquIzU outer"
+      type="button"
+    >
+      <span
+        class="sc-fLlhyt rsaHd"
+      >
+        Show filters
+      </span>
+    </button>
+  </div>
+  <div
+    class="split-detail-viewstyles__Outer-sc-1o7lavp-0 dsmGNQ"
+  >
+    <div
+      class="split-detail-viewstyles__ListView-sc-1o7lavp-1 dlOQM"
+    >
+      <div
+        class="stackstyles__StyledVStack-sc-1m733wj-0 hxKxqM"
+      >
+        <a
+          class="sc-cxabCf jXIYjw"
+          href="/admin/users?highlight=new"
+        >
+          <div
+            class="sc-llJcti bXPFSt"
+          >
+            <div
+              class="sc-iIPllB eHdWmr"
+            />
+            <div
+              class="sc-gicCDI kuVafx"
+            >
+              <div
+                class="split-detail-itemstyles__Item-sc-5gess9-0 cHrFus"
+              >
+                <div
+                  class="sc-ksZaOG fmXsYE"
+                >
+                  <h1
+                    class="sc-dkzDqf ddFalQ sc-fEOsli bjQyEs"
+                    id="new-+"
+                  >
+                    New +
+                  </h1>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<AdminUsers /> should render correctly with requesting=true 1`] = `
+<div>
+  <div>
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <div
+        class="sc-kDDrLX emakin"
+      >
+        <a
+          class="sc-iBkjds JLudk"
+          href="/admin"
+        >
+          ⇠ Admin
+        </a>
+      </div>
+    </div>
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <h1
+        class="sc-bczRLJ hDLBIv sc-jqUVSM drQcdn"
+      >
+        Admin users
+      </h1>
+    </div>
+  </div>
+  <div
+    class="stackstyles__StyledHStack-sc-1m733wj-1 ilBDHD"
+  >
+    <button
+      class="sc-dmRaPn dquIzU outer"
+      type="button"
+    >
+      <span
+        class="sc-fLlhyt rsaHd"
+      >
+        Reload users
+      </span>
+    </button>
+    <button
+      class="sc-dmRaPn dquIzU outer"
+      type="button"
+    >
+      <span
+        class="sc-fLlhyt rsaHd"
+      >
+        Show filters
+      </span>
+    </button>
+  </div>
+  <div
+    class="split-detail-viewstyles__Outer-sc-1o7lavp-0 dsmGNQ"
+  >
+    <div
+      class="split-detail-viewstyles__ListView-sc-1o7lavp-1 dlOQM"
+    >
+      <div
+        class="stackstyles__StyledVStack-sc-1m733wj-0 hxKxqM"
+      >
+        <a
+          class="sc-cxabCf jXIYjw"
+          href="/admin/users?highlight=new"
+        >
+          <div
+            class="sc-llJcti bXPFSt"
+          >
+            <div
+              class="sc-iIPllB eHdWmr"
+            />
+            <div
+              class="sc-gicCDI kuVafx"
+            >
+              <div
+                class="split-detail-itemstyles__Item-sc-5gess9-0 cHrFus"
+              >
+                <div
+                  class="sc-ksZaOG fmXsYE"
+                >
+                  <h1
+                    class="sc-dkzDqf ddFalQ sc-fEOsli bjQyEs"
+                    id="new-+"
+                  >
+                    New +
+                  </h1>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<AdminUsers /> should render correctly with updateError 1`] = `
+<div>
+  <div>
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <div
+        class="sc-kDDrLX emakin"
+      >
+        <a
+          class="sc-iBkjds JLudk"
+          href="/admin"
+        >
+          ⇠ Admin
+        </a>
+      </div>
+    </div>
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <h1
+        class="sc-bczRLJ hDLBIv sc-jqUVSM drQcdn"
+      >
+        Admin users
+      </h1>
+    </div>
+  </div>
+  <div
+    class="stackstyles__StyledHStack-sc-1m733wj-1 ilBDHD"
+  >
+    <button
+      class="sc-dmRaPn dquIzU outer"
+      type="button"
+    >
+      <span
+        class="sc-fLlhyt rsaHd"
+      >
+        Reload users
+      </span>
+    </button>
+    <button
+      class="sc-dmRaPn dquIzU outer"
+      type="button"
+    >
+      <span
+        class="sc-fLlhyt rsaHd"
+      >
+        Show filters
+      </span>
+    </button>
+  </div>
+  <div
+    class="split-detail-viewstyles__Outer-sc-1o7lavp-0 dsmGNQ"
+  >
+    <div
+      class="split-detail-viewstyles__ListView-sc-1o7lavp-1 dlOQM"
+    >
+      <div
+        class="stackstyles__StyledVStack-sc-1m733wj-0 hxKxqM"
+      >
+        <a
+          class="sc-cxabCf jXIYjw"
+          href="/admin/users?highlight=new"
+        >
+          <div
+            class="sc-llJcti bXPFSt"
+          >
+            <div
+              class="sc-iIPllB eHdWmr"
+            />
+            <div
+              class="sc-gicCDI kuVafx"
+            >
+              <div
+                class="split-detail-itemstyles__Item-sc-5gess9-0 cHrFus"
+              >
+                <div
+                  class="sc-ksZaOG fmXsYE"
+                >
+                  <h1
+                    class="sc-dkzDqf ddFalQ sc-fEOsli bjQyEs"
+                    id="new-+"
+                  >
+                    New +
+                  </h1>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<AdminUsers /> should render correctly with updating=true 1`] = `
+<div>
+  <div>
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <div
+        class="sc-kDDrLX emakin"
+      >
+        <a
+          class="sc-iBkjds JLudk"
+          href="/admin"
+        >
+          ⇠ Admin
+        </a>
+      </div>
+    </div>
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <h1
+        class="sc-bczRLJ hDLBIv sc-jqUVSM drQcdn"
+      >
+        Admin users
+      </h1>
+    </div>
+  </div>
+  <div
+    class="stackstyles__StyledHStack-sc-1m733wj-1 ilBDHD"
+  >
+    <button
+      class="sc-dmRaPn dquIzU outer"
+      type="button"
+    >
+      <span
+        class="sc-fLlhyt rsaHd"
+      >
+        Reload users
+      </span>
+    </button>
+    <button
+      class="sc-dmRaPn dquIzU outer"
+      type="button"
+    >
+      <span
+        class="sc-fLlhyt rsaHd"
+      >
+        Show filters
+      </span>
+    </button>
+  </div>
+  <div
+    class="split-detail-viewstyles__Outer-sc-1o7lavp-0 dsmGNQ"
+  >
+    <div
+      class="split-detail-viewstyles__ListView-sc-1o7lavp-1 dlOQM"
+    >
+      <div
+        class="stackstyles__StyledVStack-sc-1m733wj-0 hxKxqM"
+      >
+        <a
+          class="sc-cxabCf jXIYjw"
+          href="/admin/users?highlight=new"
+        >
+          <div
+            class="sc-llJcti bXPFSt"
+          >
+            <div
+              class="sc-iIPllB eHdWmr"
+            />
+            <div
+              class="sc-gicCDI kuVafx"
+            >
+              <div
+                class="split-detail-itemstyles__Item-sc-5gess9-0 cHrFus"
+              >
+                <div
+                  class="sc-ksZaOG fmXsYE"
+                >
+                  <h1
+                    class="sc-dkzDqf ddFalQ sc-fEOsli bjQyEs"
+                    id="new-+"
+                  >
+                    New +
+                  </h1>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<AdminUsers /> should render correctly with user 1`] = `
+<div>
+  <div
+    class="sc-ksZaOG fmXsYE"
+  >
+    <h1
+      class="sc-gsnTZi cTWewb sc-fEOsli cWAOmA"
+      id="admin-only"
+    >
+      Admin only
+    </h1>
+    <span
+      class="sc-ezWOiH jeKMJn"
+    >
+      You need to be logged in with an admin account to view this content.
+      <br />
+      <a
+        class="sc-iBkjds JLudk"
+        href="/login"
+      >
+        Got a different admin account? Log in here.
+      </a>
+    </span>
+  </div>
+</div>
+`;
+
+exports[`<AdminUsers /> should render correctly with users 1`] = `
+<div>
+  <div>
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <div
+        class="sc-kDDrLX emakin"
+      >
+        <a
+          class="sc-iBkjds JLudk"
+          href="/admin"
+        >
+          ⇠ Admin
+        </a>
+      </div>
+    </div>
+    <div
+      class="sc-breuTD gWTOEy"
+    >
+      <h1
+        class="sc-bczRLJ hDLBIv sc-jqUVSM drQcdn"
+      >
+        Admin users
+      </h1>
+    </div>
+  </div>
+  <div
+    class="stackstyles__StyledHStack-sc-1m733wj-1 ilBDHD"
+  >
+    <button
+      class="sc-dmRaPn dquIzU outer"
+      type="button"
+    >
+      <span
+        class="sc-fLlhyt rsaHd"
+      >
+        Reload users
+      </span>
+    </button>
+    <button
+      class="sc-dmRaPn dquIzU outer"
+      type="button"
+    >
+      <span
+        class="sc-fLlhyt rsaHd"
+      >
+        Show filters
+      </span>
+    </button>
+  </div>
+  <span
+    class="sc-ezWOiH jeKMJn admin-usersstyles__Count-sc-1qwrqg1-0 jJBuWT"
+  >
+    Showing 
+    3
+     of 
+    3
+     users
+  </span>
+  <div
+    class="split-detail-viewstyles__Outer-sc-1o7lavp-0 dsmGNQ"
+  >
+    <div
+      class="split-detail-viewstyles__ListView-sc-1o7lavp-1 dlOQM"
+    >
+      <div
+        class="stackstyles__StyledVStack-sc-1m733wj-0 hxKxqM"
+      >
+        <a
+          class="sc-cxabCf jXIYjw"
+          href="/admin/users?highlight=new"
+        >
+          <div
+            class="sc-llJcti bXPFSt"
+          >
+            <div
+              class="sc-iIPllB eHdWmr"
+            />
+            <div
+              class="sc-gicCDI kuVafx"
+            >
+              <div
+                class="split-detail-itemstyles__Item-sc-5gess9-0 cHrFus"
+              >
+                <div
+                  class="sc-ksZaOG fmXsYE"
+                >
+                  <h1
+                    class="sc-dkzDqf ddFalQ sc-fEOsli bjQyEs"
+                    id="new-+"
+                  >
+                    New +
+                  </h1>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+        <a
+          class="sc-cxabCf jXIYjw"
+          href="/admin/users?highlight=1"
+          id="1"
+        >
+          <div
+            class="sc-llJcti bXPFSt"
+          >
+            <div
+              class="sc-iIPllB eHdWmr"
+            />
+            <div
+              class="sc-gicCDI kuVafx"
+            >
+              <div
+                class="split-detail-itemstyles__Item-sc-5gess9-0 cHrFus"
+              >
+                <div
+                  class="sc-ksZaOG fmXsYE"
+                >
+                  <h1
+                    class="sc-dkzDqf ddFalQ sc-fEOsli bjQyEs"
+                    id="name"
+                  >
+                    name
+                  </h1>
+                  <span
+                    class="sc-ezWOiH jeKMJn"
+                  >
+                    <br />
+                    id: 
+                    1
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+        <a
+          class="sc-cxabCf jXIYjw"
+          href="/admin/users?highlight=2"
+          id="2"
+        >
+          <div
+            class="sc-llJcti bXPFSt"
+          >
+            <div
+              class="sc-iIPllB eHdWmr"
+            />
+            <div
+              class="sc-gicCDI kuVafx"
+            >
+              <div
+                class="split-detail-itemstyles__Item-sc-5gess9-0 cHrFus"
+              >
+                <div
+                  class="sc-ksZaOG fmXsYE"
+                >
+                  <h1
+                    class="sc-dkzDqf ddFalQ sc-fEOsli bjQyEs"
+                    id="another"
+                  >
+                    another
+                  </h1>
+                  <span
+                    class="sc-ezWOiH jeKMJn"
+                  >
+                    <br />
+                    id: 
+                    2
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+        <a
+          class="sc-cxabCf jXIYjw"
+          href="/admin/users?highlight=3"
+          id="3"
+        >
+          <div
+            class="sc-llJcti bXPFSt"
+          >
+            <div
+              class="sc-iIPllB eHdWmr"
+            />
+            <div
+              class="sc-gicCDI kuVafx"
+            >
+              <div
+                class="split-detail-itemstyles__Item-sc-5gess9-0 cHrFus"
+              >
+                <div
+                  class="sc-ksZaOG fmXsYE"
+                >
+                  <h1
+                    class="sc-dkzDqf ddFalQ sc-fEOsli bjQyEs"
+                    id="a-third"
+                  >
+                    a third
+                  </h1>
+                  <span
+                    class="sc-ezWOiH jeKMJn"
+                  >
+                    <br />
+                    id: 
+                    3
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;

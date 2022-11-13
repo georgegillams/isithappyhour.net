@@ -1,0 +1,32 @@
+# Don't check auto-generated stuff into git
+.next/
+coverage
+node_modules
+stats.json
+yarn-error.log
+
+build
+deploy
+build.zip
+isithappyhour.net.tar.gz
+
+src/helpers
+helpers/helpers
+server/helpers
+
+# runtime stuff
+server/server_content
+
+# backstop stuff
+backstop_data/html_report
+backstop_data/bitmaps_test
+
+# redis
+dump.rdb
+
+# Cruft
+.DS_Store
+npm-debug.log
+.eslintcache
+
+*~

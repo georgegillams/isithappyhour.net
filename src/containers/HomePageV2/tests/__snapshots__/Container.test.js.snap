@@ -1,0 +1,209 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Home /> should render correctly 1`] = `
+<div>
+  <div
+    class="sc-bczRLJ gmscGQ page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-ftvSup laBHLg"
+    >
+      <style>
+        .js .animated-content__wrapper--hidden {
+  padding-top: 4rem;
+  opacity: 0.01;
+}
+      </style>
+      <div
+        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+      >
+        <div
+          class="homestyles__AnswerWrapper-sc-d0smz9-0 iWmeiL"
+        >
+          <span
+            class="sc-jSMfEi cSTHCK homestyles__Answer-sc-d0smz9-1 kSqXIm"
+          >
+            YES!
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-ftvSup laBHLg"
+    >
+      <style>
+        .js .animated-content__wrapper--hidden {
+  padding-top: 4rem;
+  opacity: 0.01;
+}
+      </style>
+      <div
+        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+      >
+        <span
+          class="sc-jSMfEi kskSGE"
+        >
+          It's happy hour somewhere in the world. Cheers 🍻
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Home /> should render correctly with admin user 1`] = `
+<div>
+  <div
+    class="sc-bczRLJ gmscGQ page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-ftvSup laBHLg"
+    >
+      <style>
+        .js .animated-content__wrapper--hidden {
+  padding-top: 4rem;
+  opacity: 0.01;
+}
+      </style>
+      <div
+        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+      >
+        <div
+          class="homestyles__AnswerWrapper-sc-d0smz9-0 iWmeiL"
+        >
+          <span
+            class="sc-jSMfEi cSTHCK homestyles__Answer-sc-d0smz9-1 kSqXIm"
+          >
+            YES!
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-ftvSup laBHLg"
+    >
+      <style>
+        .js .animated-content__wrapper--hidden {
+  padding-top: 4rem;
+  opacity: 0.01;
+}
+      </style>
+      <div
+        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+      >
+        <span
+          class="sc-jSMfEi kskSGE"
+        >
+          It's happy hour somewhere in the world. Cheers 🍻
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Home /> should render correctly with no user 1`] = `
+<div>
+  <div
+    class="sc-bczRLJ gmscGQ page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-ftvSup laBHLg"
+    >
+      <style>
+        .js .animated-content__wrapper--hidden {
+  padding-top: 4rem;
+  opacity: 0.01;
+}
+      </style>
+      <div
+        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+      >
+        <div
+          class="homestyles__AnswerWrapper-sc-d0smz9-0 iWmeiL"
+        >
+          <span
+            class="sc-jSMfEi cSTHCK homestyles__Answer-sc-d0smz9-1 kSqXIm"
+          >
+            YES!
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-ftvSup laBHLg"
+    >
+      <style>
+        .js .animated-content__wrapper--hidden {
+  padding-top: 4rem;
+  opacity: 0.01;
+}
+      </style>
+      <div
+        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+      >
+        <span
+          class="sc-jSMfEi kskSGE"
+        >
+          It's happy hour somewhere in the world. Cheers 🍻
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Home /> should render correctly with user 1`] = `
+<div>
+  <div
+    class="sc-bczRLJ gmscGQ page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-ftvSup laBHLg"
+    >
+      <style>
+        .js .animated-content__wrapper--hidden {
+  padding-top: 4rem;
+  opacity: 0.01;
+}
+      </style>
+      <div
+        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+      >
+        <div
+          class="homestyles__AnswerWrapper-sc-d0smz9-0 iWmeiL"
+        >
+          <span
+            class="sc-jSMfEi cSTHCK homestyles__Answer-sc-d0smz9-1 kSqXIm"
+          >
+            YES!
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-ftvSup laBHLg"
+    >
+      <style>
+        .js .animated-content__wrapper--hidden {
+  padding-top: 4rem;
+  opacity: 0.01;
+}
+      </style>
+      <div
+        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+      >
+        <span
+          class="sc-jSMfEi kskSGE"
+        >
+          It's happy hour somewhere in the world. Cheers 🍻
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;

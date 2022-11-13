@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Card /> Should render correctly 1`] = `
+<div>
+  <a
+    class="sc-gsnTZi hvFSuA"
+    href="/test"
+  >
+    <div
+      class="sc-dkzDqf hkFiab"
+    >
+      <div
+        class="sc-hKMtZM kvlGVY"
+      />
+      <div
+        class="sc-eCYdqJ heBWoi"
+      />
+    </div>
+  </a>
+</div>
+`;
+
+exports[`<Card /> Should render correctly hrefExternal 1`] = `
+<div>
+  <a
+    class="sc-gsnTZi hvFSuA"
+    href="https://duckduckgo.com/"
+  >
+    <div
+      class="sc-dkzDqf hkFiab"
+    >
+      <div
+        class="sc-hKMtZM kvlGVY"
+      />
+      <div
+        class="sc-eCYdqJ heBWoi"
+      />
+    </div>
+  </a>
+</div>
+`;
+
+exports[`<Card /> Should render correctly with custom className 1`] = `
+<div>
+  <a
+    class="sc-gsnTZi hvFSuA test-custom-classname"
+    href="/test"
+  >
+    <div
+      class="sc-dkzDqf hkFiab"
+    >
+      <div
+        class="sc-hKMtZM kvlGVY"
+      />
+      <div
+        class="sc-eCYdqJ heBWoi"
+      />
+    </div>
+  </a>
+</div>
+`;
+
+exports[`<Card /> Should render with nextified href 1`] = `
+<div>
+  <a
+    class="sc-gsnTZi hvFSuA"
+    href="/blog/test"
+  >
+    <div
+      class="sc-dkzDqf hkFiab"
+    >
+      <div
+        class="sc-hKMtZM kvlGVY"
+      />
+      <div
+        class="sc-eCYdqJ heBWoi"
+      />
+    </div>
+  </a>
+</div>
+`;

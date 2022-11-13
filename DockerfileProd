@@ -1,0 +1,30 @@
+FROM node:12
+
+ARG GSUITE_APP_PASSWORD
+ENV GSUITE_APP_PASSWORD=$GSUITE_APP_PASSWORD
+ARG GSUITE_EMAIL
+ENV GSUITE_EMAIL=$GSUITE_EMAIL
+ARG FLICKR_API_KEY
+ENV FLICKR_API_KEY=$FLICKR_API_KEY
+ARG REDIS_URL
+ENV REDIS_URL=$REDIS_URL
+ARG SECRET_API_KEY
+ENV SECRET_API_KEY=$SECRET_API_KEY
+ARG SESSION_SECRET
+ENV SESSION_SECRET=$SESSION_SECRET
+
+# # Install python/pip
+# ENV PYTHONUNBUFFERED=1
+# RUN apk add --update --no-cache python3 && ln -sf python3 /usr/bin/python
+# RUN python3 -m ensurepip
+# RUN pip3 install --no-cache --upgrade pip setuptools
+
+RUN mkdir /opt/app
+WORKDIR /opt/app
+
+COPY . .
+RUN rm -rf node_modules
+RUN PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true yarn install --frozen-lockfile --network-timeout 300000
+RUN yarn build
+EXPOSE 3000
+CMD ["npm", "run", "start"]

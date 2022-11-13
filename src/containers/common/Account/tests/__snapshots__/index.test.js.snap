@@ -1,0 +1,518 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Account /> should render correctly - index 1`] = `
+<div>
+  <div
+    aria-label="Loading"
+    class="sc-bczRLJ gOFXdZ page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-idiyUo dFncVb"
+    >
+      <div
+        class="sc-dIouRR jTSght"
+        style="margin-left: -0px;"
+      />
+    </div>
+    <div
+      class="sc-idiyUo eGnJtH"
+      style="margin-top: 1.2rem;"
+    >
+      <div
+        class="sc-dIouRR jTSght"
+        style="margin-left: -0px;"
+      />
+    </div>
+    <div
+      class="sc-idiyUo eGnJtH"
+    >
+      <div
+        class="sc-dIouRR jTSght"
+        style="margin-left: -0px;"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Account /> should render correctly with initial state 1`] = `
+<div>
+  <div
+    class="sc-bczRLJ ikoAiL page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-ksZaOG itmwyR"
+    >
+      <h1
+        class="sc-gsnTZi hUDWSp sc-kDDrLX cCIGfN"
+      >
+        Account
+      </h1>
+    </div>
+    <div
+      class="accountstyles__ControlPanel-sc-b7dzct-2 irDDWO"
+    >
+      <button
+        class="sc-kgflAQ hgYaiq accountstyles__StyledButton-sc-b7dzct-1 lenMsB"
+        type="button"
+      >
+        <span
+          class="sc-bBrHrO cGDsUB"
+        >
+          Get a new verification email
+        </span>
+      </button>
+      <button
+        class="sc-kgflAQ cJZfCf outer"
+        type="button"
+      >
+        <span
+          class="sc-bBrHrO cGDsUB"
+        >
+          Logout
+        </span>
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Account /> should render correctly with initial state 2`] = `
+<div>
+  <div
+    class="sc-bczRLJ ikoAiL page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-ksZaOG itmwyR"
+    >
+      <h1
+        class="sc-gsnTZi hUDWSp sc-kDDrLX cCIGfN"
+      >
+        Account
+      </h1>
+    </div>
+    <div
+      class="accountstyles__ControlPanel-sc-b7dzct-2 irDDWO"
+    >
+      <button
+        class="sc-kgflAQ hgYaiq accountstyles__StyledButton-sc-b7dzct-1 lenMsB"
+        type="button"
+      >
+        <span
+          class="sc-bBrHrO cGDsUB"
+        >
+          Get a new verification email
+        </span>
+      </button>
+      <button
+        class="sc-kgflAQ cJZfCf outer"
+        type="button"
+      >
+        <span
+          class="sc-bBrHrO cGDsUB"
+        >
+          Logout
+        </span>
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Account /> should render correctly with logOutError 1`] = `
+<div>
+  <div
+    class="sc-bczRLJ ikoAiL page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-ksZaOG itmwyR"
+    >
+      <h1
+        class="sc-gsnTZi hUDWSp sc-kDDrLX cCIGfN"
+      >
+        Account
+      </h1>
+    </div>
+    <div
+      class="accountstyles__ControlPanel-sc-b7dzct-2 irDDWO"
+    >
+      <button
+        class="sc-kgflAQ hgYaiq accountstyles__StyledButton-sc-b7dzct-1 lenMsB"
+        type="button"
+      >
+        <span
+          class="sc-bBrHrO cGDsUB"
+        >
+          Get a new verification email
+        </span>
+      </button>
+      <button
+        class="sc-kgflAQ cJZfCf outer"
+        type="button"
+      >
+        <span
+          class="sc-bBrHrO cGDsUB"
+        >
+          Logout
+        </span>
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Account /> should render correctly with logOutResult 1`] = `
+<div>
+  <div
+    class="sc-bczRLJ ikoAiL page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-ksZaOG itmwyR"
+    >
+      <h1
+        class="sc-gsnTZi hUDWSp sc-kDDrLX cCIGfN"
+      >
+        Account
+      </h1>
+    </div>
+    <div
+      class="accountstyles__ControlPanel-sc-b7dzct-2 irDDWO"
+    >
+      <button
+        class="sc-kgflAQ hgYaiq accountstyles__StyledButton-sc-b7dzct-1 lenMsB"
+        type="button"
+      >
+        <span
+          class="sc-bBrHrO cGDsUB"
+        >
+          Get a new verification email
+        </span>
+      </button>
+      <button
+        class="sc-kgflAQ cJZfCf outer"
+        type="button"
+      >
+        <span
+          class="sc-bBrHrO cGDsUB"
+        >
+          Logout
+        </span>
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Account /> should render correctly with loggingOut=true 1`] = `
+<div>
+  <div
+    class="sc-bczRLJ ikoAiL page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-ksZaOG itmwyR"
+    >
+      <h1
+        class="sc-gsnTZi hUDWSp sc-kDDrLX cCIGfN"
+      >
+        Account
+      </h1>
+    </div>
+    <div
+      class="accountstyles__ControlPanel-sc-b7dzct-2 irDDWO"
+    >
+      <button
+        class="sc-kgflAQ hgYaiq accountstyles__StyledButton-sc-b7dzct-1 lenMsB"
+        type="button"
+      >
+        <span
+          class="sc-bBrHrO cGDsUB"
+        >
+          Get a new verification email
+        </span>
+      </button>
+      <button
+        class="sc-kgflAQ cIiNHb outer"
+        disabled=""
+        type="button"
+      >
+        <span
+          class="sc-bBrHrO gjkmXW"
+        >
+          Logout
+        </span>
+        <div
+          aria-hidden="true"
+          class="sc-ivTmOn iqRBZK"
+        >
+          <div
+            class="sc-hHLeRK bVAUeO"
+          >
+            <div
+              class="sc-dmRaPn hbDaYV"
+            />
+            <div
+              class="sc-dmRaPn icwYPZ"
+            />
+            <div
+              class="sc-dmRaPn ehliBm"
+            />
+            <div
+              class="sc-dmRaPn ibQiof"
+            />
+            <div
+              class="sc-dmRaPn iiLCWI"
+            />
+            <div
+              class="sc-dmRaPn gWklpt"
+            />
+            <div
+              class="sc-dmRaPn fLjdip"
+            />
+            <div
+              class="sc-dmRaPn jXDPzh"
+            />
+          </div>
+        </div>
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Account /> should render correctly with no user 1`] = `
+<div>
+  <div
+    aria-label="Loading"
+    class="sc-bczRLJ gOFXdZ page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-idiyUo dFncVb"
+    >
+      <div
+        class="sc-dIouRR jTSght"
+        style="margin-left: -0px;"
+      />
+    </div>
+    <div
+      class="sc-idiyUo eGnJtH"
+      style="margin-top: 1.2rem;"
+    >
+      <div
+        class="sc-dIouRR jTSght"
+        style="margin-left: -0px;"
+      />
+    </div>
+    <div
+      class="sc-idiyUo eGnJtH"
+    >
+      <div
+        class="sc-dIouRR jTSght"
+        style="margin-left: -0px;"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Account /> should render correctly with requestVerificationEmailError 1`] = `
+<div>
+  <div
+    class="sc-bczRLJ ikoAiL page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-ksZaOG itmwyR"
+    >
+      <h1
+        class="sc-gsnTZi hUDWSp sc-kDDrLX cCIGfN"
+      >
+        Account
+      </h1>
+    </div>
+    <div
+      class="accountstyles__ControlPanel-sc-b7dzct-2 irDDWO"
+    >
+      <button
+        class="sc-kgflAQ hgYaiq accountstyles__StyledButton-sc-b7dzct-1 lenMsB"
+        type="button"
+      >
+        <span
+          class="sc-bBrHrO cGDsUB"
+        >
+          Get a new verification email
+        </span>
+      </button>
+      <button
+        class="sc-kgflAQ cJZfCf outer"
+        type="button"
+      >
+        <span
+          class="sc-bBrHrO cGDsUB"
+        >
+          Logout
+        </span>
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Account /> should render correctly with requestVerificationEmailResult 1`] = `
+<div>
+  <div
+    class="sc-bczRLJ ikoAiL page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-ksZaOG itmwyR"
+    >
+      <h1
+        class="sc-gsnTZi hUDWSp sc-kDDrLX cCIGfN"
+      >
+        Account
+      </h1>
+    </div>
+    <div
+      class="accountstyles__ControlPanel-sc-b7dzct-2 irDDWO"
+    >
+      <button
+        class="sc-kgflAQ hgYaiq accountstyles__StyledButton-sc-b7dzct-1 lenMsB"
+        type="button"
+      >
+        <span
+          class="sc-bBrHrO cGDsUB"
+        >
+          Get a new verification email
+        </span>
+      </button>
+      <button
+        class="sc-kgflAQ cJZfCf outer"
+        type="button"
+      >
+        <span
+          class="sc-bBrHrO cGDsUB"
+        >
+          Logout
+        </span>
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Account /> should render correctly with requestingVerificationEmail=true 1`] = `
+<div>
+  <div
+    class="sc-bczRLJ ikoAiL page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-ksZaOG itmwyR"
+    >
+      <h1
+        class="sc-gsnTZi hUDWSp sc-kDDrLX cCIGfN"
+      >
+        Account
+      </h1>
+    </div>
+    <div
+      class="accountstyles__ControlPanel-sc-b7dzct-2 irDDWO"
+    >
+      <button
+        class="sc-kgflAQ fiXEO accountstyles__StyledButton-sc-b7dzct-1 lenMsB"
+        disabled=""
+        type="button"
+      >
+        <span
+          class="sc-bBrHrO gjkmXW"
+        >
+          Get a new verification email
+        </span>
+        <div
+          aria-hidden="true"
+          class="sc-ivTmOn iqRBZK"
+        >
+          <div
+            class="sc-hHLeRK bVAUeO"
+          >
+            <div
+              class="sc-dmRaPn hbDaYV"
+            />
+            <div
+              class="sc-dmRaPn icwYPZ"
+            />
+            <div
+              class="sc-dmRaPn ehliBm"
+            />
+            <div
+              class="sc-dmRaPn ibQiof"
+            />
+            <div
+              class="sc-dmRaPn iiLCWI"
+            />
+            <div
+              class="sc-dmRaPn gWklpt"
+            />
+            <div
+              class="sc-dmRaPn fLjdip"
+            />
+            <div
+              class="sc-dmRaPn jXDPzh"
+            />
+          </div>
+        </div>
+      </button>
+      <button
+        class="sc-kgflAQ cJZfCf outer"
+        type="button"
+      >
+        <span
+          class="sc-bBrHrO cGDsUB"
+        >
+          Logout
+        </span>
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Account /> should render correctly with user with emailVerified=true 1`] = `
+<div>
+  <div
+    class="sc-bczRLJ ikoAiL page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-ksZaOG itmwyR"
+    >
+      <h1
+        class="sc-gsnTZi hUDWSp sc-kDDrLX cCIGfN"
+      >
+        Account
+      </h1>
+    </div>
+    <div
+      class="accountstyles__ControlPanel-sc-b7dzct-2 irDDWO"
+    >
+      <button
+        class="sc-kgflAQ cJZfCf outer"
+        type="button"
+      >
+        <span
+          class="sc-bBrHrO cGDsUB"
+        >
+          Logout
+        </span>
+      </button>
+    </div>
+  </div>
+</div>
+`;
