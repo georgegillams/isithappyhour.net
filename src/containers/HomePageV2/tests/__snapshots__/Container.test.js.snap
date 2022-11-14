@@ -42,9 +42,59 @@ exports[`<Home /> should render correctly 1`] = `
         class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
       >
         <span
-          class="sc-jSMfEi kskSGE"
+          class="sc-kDDrLX bMvsic"
         >
-          It's happy hour somewhere in the world. Cheers 🍻
+          <span
+            class="sc-jSMfEi kskSGE"
+          >
+            In undefined it's undefined:undefined, so it's likely to be happy hour there.
+          </span>
+        </span>
+      </div>
+    </div>
+    <div
+      class="sc-ftvSup laBHLg"
+    >
+      <style>
+        .js .animated-content__wrapper--hidden {
+  padding-top: 4rem;
+  opacity: 0.01;
+}
+      </style>
+      <div
+        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+      >
+        <span
+          class="sc-kDDrLX bMvsic"
+        >
+          <span
+            class="sc-jSMfEi kskSGE"
+          >
+            Travelling all that way would be environmentally unfriendly, so you're really doing us all a favour by staying where you are and having a beer.
+          </span>
+        </span>
+      </div>
+    </div>
+    <div
+      class="sc-ftvSup laBHLg"
+    >
+      <style>
+        .js .animated-content__wrapper--hidden {
+  padding-top: 4rem;
+  opacity: 0.01;
+}
+      </style>
+      <div
+        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+      >
+        <span
+          class="sc-kDDrLX bMvsic"
+        >
+          <span
+            class="sc-jSMfEi kskSGE"
+          >
+            Cheers 🍻
+          </span>
         </span>
       </div>
     </div>
@@ -94,9 +144,59 @@ exports[`<Home /> should render correctly with admin user 1`] = `
         class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
       >
         <span
-          class="sc-jSMfEi kskSGE"
+          class="sc-kDDrLX bMvsic"
         >
-          It's happy hour somewhere in the world. Cheers 🍻
+          <span
+            class="sc-jSMfEi kskSGE"
+          >
+            In undefined it's undefined:undefined, so it's likely to be happy hour there.
+          </span>
+        </span>
+      </div>
+    </div>
+    <div
+      class="sc-ftvSup laBHLg"
+    >
+      <style>
+        .js .animated-content__wrapper--hidden {
+  padding-top: 4rem;
+  opacity: 0.01;
+}
+      </style>
+      <div
+        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+      >
+        <span
+          class="sc-kDDrLX bMvsic"
+        >
+          <span
+            class="sc-jSMfEi kskSGE"
+          >
+            Travelling all that way would be environmentally unfriendly, so you're really doing us all a favour by staying where you are and having a beer.
+          </span>
+        </span>
+      </div>
+    </div>
+    <div
+      class="sc-ftvSup laBHLg"
+    >
+      <style>
+        .js .animated-content__wrapper--hidden {
+  padding-top: 4rem;
+  opacity: 0.01;
+}
+      </style>
+      <div
+        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+      >
+        <span
+          class="sc-kDDrLX bMvsic"
+        >
+          <span
+            class="sc-jSMfEi kskSGE"
+          >
+            Cheers 🍻
+          </span>
         </span>
       </div>
     </div>
@@ -146,9 +246,59 @@ exports[`<Home /> should render correctly with no user 1`] = `
         class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
       >
         <span
-          class="sc-jSMfEi kskSGE"
+          class="sc-kDDrLX bMvsic"
         >
-          It's happy hour somewhere in the world. Cheers 🍻
+          <span
+            class="sc-jSMfEi kskSGE"
+          >
+            In undefined it's undefined:undefined, so it's likely to be happy hour there.
+          </span>
+        </span>
+      </div>
+    </div>
+    <div
+      class="sc-ftvSup laBHLg"
+    >
+      <style>
+        .js .animated-content__wrapper--hidden {
+  padding-top: 4rem;
+  opacity: 0.01;
+}
+      </style>
+      <div
+        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+      >
+        <span
+          class="sc-kDDrLX bMvsic"
+        >
+          <span
+            class="sc-jSMfEi kskSGE"
+          >
+            Travelling all that way would be environmentally unfriendly, so you're really doing us all a favour by staying where you are and having a beer.
+          </span>
+        </span>
+      </div>
+    </div>
+    <div
+      class="sc-ftvSup laBHLg"
+    >
+      <style>
+        .js .animated-content__wrapper--hidden {
+  padding-top: 4rem;
+  opacity: 0.01;
+}
+      </style>
+      <div
+        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+      >
+        <span
+          class="sc-kDDrLX bMvsic"
+        >
+          <span
+            class="sc-jSMfEi kskSGE"
+          >
+            Cheers 🍻
+          </span>
         </span>
       </div>
     </div>
@@ -198,9 +348,59 @@ exports[`<Home /> should render correctly with user 1`] = `
         class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
       >
         <span
-          class="sc-jSMfEi kskSGE"
+          class="sc-kDDrLX bMvsic"
         >
-          It's happy hour somewhere in the world. Cheers 🍻
+          <span
+            class="sc-jSMfEi kskSGE"
+          >
+            In undefined it's undefined:undefined, so it's likely to be happy hour there.
+          </span>
+        </span>
+      </div>
+    </div>
+    <div
+      class="sc-ftvSup laBHLg"
+    >
+      <style>
+        .js .animated-content__wrapper--hidden {
+  padding-top: 4rem;
+  opacity: 0.01;
+}
+      </style>
+      <div
+        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+      >
+        <span
+          class="sc-kDDrLX bMvsic"
+        >
+          <span
+            class="sc-jSMfEi kskSGE"
+          >
+            Travelling all that way would be environmentally unfriendly, so you're really doing us all a favour by staying where you are and having a beer.
+          </span>
+        </span>
+      </div>
+    </div>
+    <div
+      class="sc-ftvSup laBHLg"
+    >
+      <style>
+        .js .animated-content__wrapper--hidden {
+  padding-top: 4rem;
+  opacity: 0.01;
+}
+      </style>
+      <div
+        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+      >
+        <span
+          class="sc-kDDrLX bMvsic"
+        >
+          <span
+            class="sc-jSMfEi kskSGE"
+          >
+            Cheers 🍻
+          </span>
         </span>
       </div>
     </div>

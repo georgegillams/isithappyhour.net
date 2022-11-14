@@ -5,10 +5,8 @@
 
 ## Backlog
 
-- Show different message, depending whether it's happy hour in your location or elsewhere.
-- If it's happy hour elsewhere, choose a random location to show.
-- Show the time of happy hour location.
-- Show environmental warning about travelling.
+- Chose a random location where it's happy hour. Show this and the time etc. Show environmental warning about travelling.
+- Show different message if it's happy hour in your location. Location can be determined using https://tools.keycdn.com/geo.json?host=IP_ADDRESS_HERE.
 
 ## Developing
 
