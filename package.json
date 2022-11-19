@@ -102,7 +102,7 @@
     "stripe": "^8.126.0",
     "styled-components": "^5.3.5",
     "styled-normalize": "^8.0.7",
-    "webpack": "^4.44.1",
+    "webpack": "^5.75.0",
     "wget-improved": "^3.2.1",
     "whatwg-fetch": "^3.5.0"
   },
