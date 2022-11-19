@@ -3,8 +3,15 @@ import { utcToZonedTime } from 'date-fns-tz';
 import timeZones from './time-zones.json';
 import { isAfter } from 'date-fns';
 
+const formatPlace = place => place.split('_').join(' ');
+
 const formatLocation = timeZone => {
-  const location = timeZone.split('/').pop().split('_').join(' ');
+  const timeZoneSplit = timeZone.split('/');
+  const location = formatPlace(timeZoneSplit.pop());
+  const secondaryLocation = formatPlace(timeZoneSplit.pop());
+  if (secondaryLocation) {
+    return `${location} (${secondaryLocation})`;
+  }
   return location;
 };
 
