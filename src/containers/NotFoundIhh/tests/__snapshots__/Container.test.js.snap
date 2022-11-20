@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NotFound /> should render correctly 1`] = `
+<div>
+  <div
+    class="sc-bcXHqe izJKIX page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    width="default"
+  >
+    <div
+      class="sc-hBxehG kRpDOl"
+    >
+      <h1
+        class="sc-dkrFOg eTlLCY sc-ipEyDJ jfsqCE"
+      >
+        Oops.
+      </h1>
+    </div>
+    <div
+      class="sc-bqWxrE dacVvm"
+    >
+      <style>
+        .js .animated-content__wrapper--hidden {
+  opacity: 0.01;
+}
+      </style>
+      <div
+        class="sc-eDWCr fyEwVX animated-content__wrapper--hidden"
+      >
+        <span
+          class="sc-gswNZR ekTDXf"
+        >
+          This page doesn't exist... Time to 
+          <a
+            class="sc-pyfCe kHwuaX"
+            href="/"
+          >
+            go home
+          </a>
+          , you're drunk!
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;
