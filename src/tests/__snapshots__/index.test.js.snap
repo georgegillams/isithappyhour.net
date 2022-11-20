@@ -3,15 +3,15 @@
 exports[`<HomePage /> should render correctly 1`] = `
 <div>
   <main
-    class="main-wrapperstyles__StyledMainWrapper-sc-hveppy-0 iMOsNu common-layoutstyles__StyledMainWrapper-sc-1orix3m-0 bnxJXa"
+    class="main-wrapperstyles__StyledMainWrapper-sc-hveppy-0 llAgSZ common-layoutstyles__StyledMainWrapper-sc-1orix3m-0 ccuVuN"
     id="main"
   >
     <div
-      class="sc-bczRLJ gmscGQ page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+      class="sc-bcXHqe fjKhSJ page-containerstyles__StyledPageContainer-sc-19l7k4-0"
       width="default"
     >
       <div
-        class="sc-ftvSup laBHLg"
+        class="sc-ftTHYK jctzJl"
       >
         <style>
           .js .animated-content__wrapper--hidden {
@@ -20,13 +20,13 @@ exports[`<HomePage /> should render correctly 1`] = `
 }
         </style>
         <div
-          class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+          class="sc-iBYQkv ibAsva animated-content__wrapper--hidden"
         >
           <div
-            class="homestyles__AnswerWrapper-sc-d0smz9-0 iWmeiL"
+            class="homestyles__AnswerWrapper-sc-d0smz9-0 eCsMMo"
           >
             <span
-              class="sc-jSMfEi cSTHCK homestyles__Answer-sc-d0smz9-1 kSqXIm"
+              class="sc-jSUZER bjWoVS homestyles__Answer-sc-d0smz9-1 hUhXhl"
             >
               YES!
             </span>
@@ -34,7 +34,7 @@ exports[`<HomePage /> should render correctly 1`] = `
         </div>
       </div>
       <div
-        class="sc-ftvSup laBHLg"
+        class="sc-ftTHYK jctzJl"
       >
         <style>
           .js .animated-content__wrapper--hidden {
@@ -43,13 +43,13 @@ exports[`<HomePage /> should render correctly 1`] = `
 }
         </style>
         <div
-          class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+          class="sc-iBYQkv ibAsva animated-content__wrapper--hidden"
         >
           <span
-            class="sc-kDDrLX bMvsic"
+            class="sc-kDvujY bffeOZ"
           >
             <span
-              class="sc-jSMfEi kskSGE"
+              class="sc-jSUZER jmoeZg"
             >
               In undefined it's undefined:undefined, so it's likely to be happy hour there.
             </span>
@@ -57,7 +57,7 @@ exports[`<HomePage /> should render correctly 1`] = `
         </div>
       </div>
       <div
-        class="sc-ftvSup laBHLg"
+        class="sc-ftTHYK jctzJl"
       >
         <style>
           .js .animated-content__wrapper--hidden {
@@ -66,13 +66,13 @@ exports[`<HomePage /> should render correctly 1`] = `
 }
         </style>
         <div
-          class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+          class="sc-iBYQkv ibAsva animated-content__wrapper--hidden"
         >
           <span
-            class="sc-kDDrLX bMvsic"
+            class="sc-kDvujY bffeOZ"
           >
             <span
-              class="sc-jSMfEi kskSGE"
+              class="sc-jSUZER jmoeZg"
             >
               Travelling all that way would be environmentally unfriendly, so you're really doing us all a favour by staying where you are and having a beer.
             </span>
@@ -80,7 +80,7 @@ exports[`<HomePage /> should render correctly 1`] = `
         </div>
       </div>
       <div
-        class="sc-ftvSup laBHLg"
+        class="sc-ftTHYK jctzJl"
       >
         <style>
           .js .animated-content__wrapper--hidden {
@@ -89,13 +89,13 @@ exports[`<HomePage /> should render correctly 1`] = `
 }
         </style>
         <div
-          class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+          class="sc-iBYQkv ibAsva animated-content__wrapper--hidden"
         >
           <span
-            class="sc-kDDrLX bMvsic"
+            class="sc-kDvujY bffeOZ"
           >
             <span
-              class="sc-jSMfEi kskSGE"
+              class="sc-jSUZER jmoeZg"
             >
               Cheers 🍻
             </span>
@@ -105,7 +105,7 @@ exports[`<HomePage /> should render correctly 1`] = `
     </div>
   </main>
   <div
-    class="sc-ftvSup laBHLg"
+    class="sc-ftTHYK jctzJl"
   >
     <style>
       .js .animated-content__wrapper--hidden {
@@ -113,33 +113,33 @@ exports[`<HomePage /> should render correctly 1`] = `
 }
     </style>
     <div
-      class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+      class="sc-iBYQkv ibAsva animated-content__wrapper--hidden"
     >
       <footer
-        class="footerstyles__Container-sc-ojjd19-0 beXJfO"
+        class="footerstyles__Container-sc-ojjd19-0 jwEgwh"
         id="footer"
       >
         <div
-          class="footerstyles__StyledTechSpecs-sc-ojjd19-1 bxZcwO"
+          class="footerstyles__StyledTechSpecs-sc-ojjd19-1 eCCBIR"
         >
           <span
-            class="sc-kDDrLX bMvsic tech-specsstyles__StyledParagraph-sc-1ysn53a-0 glkFZI"
+            class="sc-kDvujY bffeOZ tech-specsstyles__StyledParagraph-sc-1ysn53a-0 hLsLJb"
           >
             Made with love by
              
             <a
               aria-label="George (opens in a new tab)"
-              class="sc-crXcEl getKBC"
+              class="sc-csuSiG eTsbyq"
               href="https://www.georgegillams.co.uk/"
               rel="noopener noreferrer"
               target="_blank"
             >
               George
               <div
-                class="sc-evZas gLzuUv"
+                class="sc-eDWCr sqEDo"
               >
                 <svg
-                  class="sc-iqcoie chQRol sc-breuTD ktuGc"
+                  class="sc-ipEyDJ bYdzwB sc-bqWxrE cqbVE"
                   height="18"
                   viewBox="0 0 24 24"
                   width="18"
@@ -153,7 +153,7 @@ exports[`<HomePage /> should render correctly 1`] = `
             </a>
           </span>
           <span
-            class="sc-kDDrLX bMvsic tech-specsstyles__StyledParagraph-sc-1ysn53a-0 glkFZI"
+            class="sc-kDvujY bffeOZ tech-specsstyles__StyledParagraph-sc-1ysn53a-0 hLsLJb"
           >
             Please do not share with anyone under the legal purchase age for alcohol. Drink Responsibly.
           </span>

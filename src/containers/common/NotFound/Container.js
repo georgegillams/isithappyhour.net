@@ -11,7 +11,9 @@ const NotFound = props => {
       <PageTitle name="Oops." pageTitle="404">
         <ScrollAnimationWrapper animation={ANIMATIONS.fade}>
           <Paragraph>
-            This page doesn&#39;t exist... Time to <TextLink href={'/'}>go home</TextLink>, you&#39;re drunk!
+            The page you&apos;re looking for doesn&apos;t exist, or you don&apos;t have permission to view it.
+            <br />
+            Maybe the <TextLink href={'/sitemap'}>site map</TextLink> can help
           </Paragraph>
         </ScrollAnimationWrapper>
       </PageTitle>

@@ -13,6 +13,7 @@ import AppWrapper from 'components/common/AppWrapper';
 import { enableES5 } from 'immer';
 
 import GlobalCSS from 'global.styles';
+import ErrorBoundary from 'components/ErrorBoundary';
 
 // Ensures that `immer` will work inside Internet Explorer
 enableES5();
@@ -30,14 +31,16 @@ class Srr extends App {
         </Head>
         <GlobalCSS />
 
-        <Provider store={reduxStore}>
-          <AppWrapper>
-            <Notifications />
-            <Konami />
-            <Analytics />
-            <Component {...pageProps} />
-          </AppWrapper>
-        </Provider>
+        <ErrorBoundary>
+          <Provider store={reduxStore}>
+            <AppWrapper>
+              <Notifications />
+              <Konami />
+              <Analytics />
+              <Component {...pageProps} />
+            </AppWrapper>
+          </Provider>
+        </ErrorBoundary>
       </React.StrictMode>
     );
   }

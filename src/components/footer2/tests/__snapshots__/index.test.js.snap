@@ -3,30 +3,30 @@
 exports[`<Footer /> Should render correctly 1`] = `
 <div>
   <footer
-    class="footerstyles__Container-sc-ojjd19-0 beXJfO"
+    class="footerstyles__Container-sc-ojjd19-0 jwEgwh"
     id="footer"
   >
     <div
-      class="footerstyles__StyledTechSpecs-sc-ojjd19-1 bxZcwO"
+      class="footerstyles__StyledTechSpecs-sc-ojjd19-1 eCCBIR"
     >
       <span
-        class="sc-jqUVSM iuHAUr tech-specsstyles__StyledParagraph-sc-1ysn53a-0 glkFZI"
+        class="sc-jrcTuL dRJySQ tech-specsstyles__StyledParagraph-sc-1ysn53a-0 hLsLJb"
       >
         Made with love by
          
         <a
           aria-label="George (opens in a new tab)"
-          class="sc-iBkjds LHtmg"
+          class="sc-iBYQkv cCatJA"
           href="https://www.georgegillams.co.uk/"
           rel="noopener noreferrer"
           target="_blank"
         >
           George
           <div
-            class="sc-ftvSup kUuEWK"
+            class="sc-ftTHYK dbfjGz"
           >
             <svg
-              class="sc-gKXOVf ktoyia sc-papXJ fmVkXn"
+              class="sc-gKPRtg eSdzmv sc-pyfCe hLCbyO"
               height="18"
               viewBox="0 0 24 24"
               width="18"
@@ -40,7 +40,7 @@ exports[`<Footer /> Should render correctly 1`] = `
         </a>
       </span>
       <span
-        class="sc-jqUVSM iuHAUr tech-specsstyles__StyledParagraph-sc-1ysn53a-0 glkFZI"
+        class="sc-jrcTuL dRJySQ tech-specsstyles__StyledParagraph-sc-1ysn53a-0 hLsLJb"
       >
         Please do not share with anyone under the legal purchase age for alcohol. Drink Responsibly.
       </span>
@@ -52,30 +52,30 @@ exports[`<Footer /> Should render correctly 1`] = `
 exports[`<Footer /> Should render correctly with custom className 1`] = `
 <div>
   <footer
-    class="footerstyles__Container-sc-ojjd19-0 beXJfO test-custom-className"
+    class="footerstyles__Container-sc-ojjd19-0 jwEgwh test-custom-className"
     id="footer"
   >
     <div
-      class="footerstyles__StyledTechSpecs-sc-ojjd19-1 bxZcwO"
+      class="footerstyles__StyledTechSpecs-sc-ojjd19-1 eCCBIR"
     >
       <span
-        class="sc-jqUVSM iuHAUr tech-specsstyles__StyledParagraph-sc-1ysn53a-0 glkFZI"
+        class="sc-jrcTuL dRJySQ tech-specsstyles__StyledParagraph-sc-1ysn53a-0 hLsLJb"
       >
         Made with love by
          
         <a
           aria-label="George (opens in a new tab)"
-          class="sc-iBkjds LHtmg"
+          class="sc-iBYQkv cCatJA"
           href="https://www.georgegillams.co.uk/"
           rel="noopener noreferrer"
           target="_blank"
         >
           George
           <div
-            class="sc-ftvSup kUuEWK"
+            class="sc-ftTHYK dbfjGz"
           >
             <svg
-              class="sc-gKXOVf ktoyia sc-papXJ fmVkXn"
+              class="sc-gKPRtg eSdzmv sc-pyfCe hLCbyO"
               height="18"
               viewBox="0 0 24 24"
               width="18"
@@ -89,7 +89,7 @@ exports[`<Footer /> Should render correctly with custom className 1`] = `
         </a>
       </span>
       <span
-        class="sc-jqUVSM iuHAUr tech-specsstyles__StyledParagraph-sc-1ysn53a-0 glkFZI"
+        class="sc-jrcTuL dRJySQ tech-specsstyles__StyledParagraph-sc-1ysn53a-0 hLsLJb"
       >
         Please do not share with anyone under the legal purchase age for alcohol. Drink Responsibly.
       </span>
