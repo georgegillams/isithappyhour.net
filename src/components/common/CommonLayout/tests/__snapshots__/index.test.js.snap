@@ -3,7 +3,7 @@
 exports[`<Layout /> Should render correctly 1`] = `
 <div>
   <main
-    class="main-wrapperstyles__StyledMainWrapper-sc-hveppy-0 iMOsNu common-layoutstyles__StyledMainWrapper-sc-1orix3m-0 bnxJXa"
+    class="main-wrapperstyles__StyledMainWrapper-sc-hveppy-0 llAgSZ common-layoutstyles__StyledMainWrapper-sc-1orix3m-0 ccuVuN"
     id="main"
   >
     <div>
@@ -11,7 +11,7 @@ exports[`<Layout /> Should render correctly 1`] = `
     </div>
   </main>
   <div
-    class="sc-iqcoie fTAtuW"
+    class="sc-ipEyDJ cGLKSq"
   >
     <style>
       .js .animated-content__wrapper--hidden {
@@ -19,33 +19,33 @@ exports[`<Layout /> Should render correctly 1`] = `
 }
     </style>
     <div
-      class="sc-kDDrLX jEmsrG animated-content__wrapper--hidden"
+      class="sc-kDvujY gFLbNj animated-content__wrapper--hidden"
     >
       <footer
-        class="footerstyles__Container-sc-ojjd19-0 beXJfO"
+        class="footerstyles__Container-sc-ojjd19-0 jwEgwh"
         id="footer"
       >
         <div
-          class="footerstyles__StyledTechSpecs-sc-ojjd19-1 bxZcwO"
+          class="footerstyles__StyledTechSpecs-sc-ojjd19-1 eCCBIR"
         >
           <span
-            class="sc-jqUVSM iuHAUr tech-specsstyles__StyledParagraph-sc-1ysn53a-0 glkFZI"
+            class="sc-jrcTuL dRJySQ tech-specsstyles__StyledParagraph-sc-1ysn53a-0 hLsLJb"
           >
             Made with love by
              
             <a
               aria-label="George (opens in a new tab)"
-              class="sc-iBkjds LHtmg"
+              class="sc-iBYQkv cCatJA"
               href="https://www.georgegillams.co.uk/"
               rel="noopener noreferrer"
               target="_blank"
             >
               George
               <div
-                class="sc-ftvSup kUuEWK"
+                class="sc-ftTHYK dbfjGz"
               >
                 <svg
-                  class="sc-gKXOVf ktoyia sc-papXJ fmVkXn"
+                  class="sc-gKPRtg eSdzmv sc-pyfCe hLCbyO"
                   height="18"
                   viewBox="0 0 24 24"
                   width="18"
@@ -59,7 +59,7 @@ exports[`<Layout /> Should render correctly 1`] = `
             </a>
           </span>
           <span
-            class="sc-jqUVSM iuHAUr tech-specsstyles__StyledParagraph-sc-1ysn53a-0 glkFZI"
+            class="sc-jrcTuL dRJySQ tech-specsstyles__StyledParagraph-sc-1ysn53a-0 hLsLJb"
           >
             Please do not share with anyone under the legal purchase age for alcohol. Drink Responsibly.
           </span>
@@ -73,7 +73,7 @@ exports[`<Layout /> Should render correctly 1`] = `
 exports[`<Layout /> Should render correctly with spread props 1`] = `
 <div>
   <main
-    class="main-wrapperstyles__StyledMainWrapper-sc-hveppy-0 iMOsNu common-layoutstyles__StyledMainWrapper-sc-1orix3m-0 bnxJXa"
+    class="main-wrapperstyles__StyledMainWrapper-sc-hveppy-0 llAgSZ common-layoutstyles__StyledMainWrapper-sc-1orix3m-0 ccuVuN"
     id="main"
   >
     <div>
@@ -81,7 +81,7 @@ exports[`<Layout /> Should render correctly with spread props 1`] = `
     </div>
   </main>
   <div
-    class="sc-iqcoie fTAtuW"
+    class="sc-ipEyDJ cGLKSq"
   >
     <style>
       .js .animated-content__wrapper--hidden {
@@ -89,33 +89,33 @@ exports[`<Layout /> Should render correctly with spread props 1`] = `
 }
     </style>
     <div
-      class="sc-kDDrLX jEmsrG animated-content__wrapper--hidden"
+      class="sc-kDvujY gFLbNj animated-content__wrapper--hidden"
     >
       <footer
-        class="footerstyles__Container-sc-ojjd19-0 beXJfO"
+        class="footerstyles__Container-sc-ojjd19-0 jwEgwh"
         id="footer"
       >
         <div
-          class="footerstyles__StyledTechSpecs-sc-ojjd19-1 bxZcwO"
+          class="footerstyles__StyledTechSpecs-sc-ojjd19-1 eCCBIR"
         >
           <span
-            class="sc-jqUVSM iuHAUr tech-specsstyles__StyledParagraph-sc-1ysn53a-0 glkFZI"
+            class="sc-jrcTuL dRJySQ tech-specsstyles__StyledParagraph-sc-1ysn53a-0 hLsLJb"
           >
             Made with love by
              
             <a
               aria-label="George (opens in a new tab)"
-              class="sc-iBkjds LHtmg"
+              class="sc-iBYQkv cCatJA"
               href="https://www.georgegillams.co.uk/"
               rel="noopener noreferrer"
               target="_blank"
             >
               George
               <div
-                class="sc-ftvSup kUuEWK"
+                class="sc-ftTHYK dbfjGz"
               >
                 <svg
-                  class="sc-gKXOVf ktoyia sc-papXJ fmVkXn"
+                  class="sc-gKPRtg eSdzmv sc-pyfCe hLCbyO"
                   height="18"
                   viewBox="0 0 24 24"
                   width="18"
@@ -129,7 +129,7 @@ exports[`<Layout /> Should render correctly with spread props 1`] = `
             </a>
           </span>
           <span
-            class="sc-jqUVSM iuHAUr tech-specsstyles__StyledParagraph-sc-1ysn53a-0 glkFZI"
+            class="sc-jrcTuL dRJySQ tech-specsstyles__StyledParagraph-sc-1ysn53a-0 hLsLJb"
           >
             Please do not share with anyone under the legal purchase age for alcohol. Drink Responsibly.
           </span>

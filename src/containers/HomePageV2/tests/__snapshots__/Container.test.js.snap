@@ -3,11 +3,11 @@
 exports[`<Home /> should render correctly 1`] = `
 <div>
   <div
-    class="sc-bczRLJ gmscGQ page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    class="sc-bcXHqe fjKhSJ page-containerstyles__StyledPageContainer-sc-19l7k4-0"
     width="default"
   >
     <div
-      class="sc-ftvSup laBHLg"
+      class="sc-ftTHYK jctzJl"
     >
       <style>
         .js .animated-content__wrapper--hidden {
@@ -16,13 +16,13 @@ exports[`<Home /> should render correctly 1`] = `
 }
       </style>
       <div
-        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+        class="sc-iBYQkv ibAsva animated-content__wrapper--hidden"
       >
         <div
-          class="homestyles__AnswerWrapper-sc-d0smz9-0 iWmeiL"
+          class="homestyles__AnswerWrapper-sc-d0smz9-0 eCsMMo"
         >
           <span
-            class="sc-jSMfEi cSTHCK homestyles__Answer-sc-d0smz9-1 kSqXIm"
+            class="sc-jSUZER bjWoVS homestyles__Answer-sc-d0smz9-1 hUhXhl"
           >
             YES!
           </span>
@@ -30,7 +30,7 @@ exports[`<Home /> should render correctly 1`] = `
       </div>
     </div>
     <div
-      class="sc-ftvSup laBHLg"
+      class="sc-ftTHYK jctzJl"
     >
       <style>
         .js .animated-content__wrapper--hidden {
@@ -39,13 +39,13 @@ exports[`<Home /> should render correctly 1`] = `
 }
       </style>
       <div
-        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+        class="sc-iBYQkv ibAsva animated-content__wrapper--hidden"
       >
         <span
-          class="sc-kDDrLX bMvsic"
+          class="sc-kDvujY bffeOZ"
         >
           <span
-            class="sc-jSMfEi kskSGE"
+            class="sc-jSUZER jmoeZg"
           >
             In undefined it's undefined:undefined, so it's likely to be happy hour there.
           </span>
@@ -53,7 +53,7 @@ exports[`<Home /> should render correctly 1`] = `
       </div>
     </div>
     <div
-      class="sc-ftvSup laBHLg"
+      class="sc-ftTHYK jctzJl"
     >
       <style>
         .js .animated-content__wrapper--hidden {
@@ -62,13 +62,13 @@ exports[`<Home /> should render correctly 1`] = `
 }
       </style>
       <div
-        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+        class="sc-iBYQkv ibAsva animated-content__wrapper--hidden"
       >
         <span
-          class="sc-kDDrLX bMvsic"
+          class="sc-kDvujY bffeOZ"
         >
           <span
-            class="sc-jSMfEi kskSGE"
+            class="sc-jSUZER jmoeZg"
           >
             Travelling all that way would be environmentally unfriendly, so you're really doing us all a favour by staying where you are and having a beer.
           </span>
@@ -76,7 +76,7 @@ exports[`<Home /> should render correctly 1`] = `
       </div>
     </div>
     <div
-      class="sc-ftvSup laBHLg"
+      class="sc-ftTHYK jctzJl"
     >
       <style>
         .js .animated-content__wrapper--hidden {
@@ -85,13 +85,13 @@ exports[`<Home /> should render correctly 1`] = `
 }
       </style>
       <div
-        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+        class="sc-iBYQkv ibAsva animated-content__wrapper--hidden"
       >
         <span
-          class="sc-kDDrLX bMvsic"
+          class="sc-kDvujY bffeOZ"
         >
           <span
-            class="sc-jSMfEi kskSGE"
+            class="sc-jSUZER jmoeZg"
           >
             Cheers 🍻
           </span>
@@ -105,11 +105,11 @@ exports[`<Home /> should render correctly 1`] = `
 exports[`<Home /> should render correctly with admin user 1`] = `
 <div>
   <div
-    class="sc-bczRLJ gmscGQ page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    class="sc-bcXHqe fjKhSJ page-containerstyles__StyledPageContainer-sc-19l7k4-0"
     width="default"
   >
     <div
-      class="sc-ftvSup laBHLg"
+      class="sc-ftTHYK jctzJl"
     >
       <style>
         .js .animated-content__wrapper--hidden {
@@ -118,13 +118,13 @@ exports[`<Home /> should render correctly with admin user 1`] = `
 }
       </style>
       <div
-        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+        class="sc-iBYQkv ibAsva animated-content__wrapper--hidden"
       >
         <div
-          class="homestyles__AnswerWrapper-sc-d0smz9-0 iWmeiL"
+          class="homestyles__AnswerWrapper-sc-d0smz9-0 eCsMMo"
         >
           <span
-            class="sc-jSMfEi cSTHCK homestyles__Answer-sc-d0smz9-1 kSqXIm"
+            class="sc-jSUZER bjWoVS homestyles__Answer-sc-d0smz9-1 hUhXhl"
           >
             YES!
           </span>
@@ -132,7 +132,7 @@ exports[`<Home /> should render correctly with admin user 1`] = `
       </div>
     </div>
     <div
-      class="sc-ftvSup laBHLg"
+      class="sc-ftTHYK jctzJl"
     >
       <style>
         .js .animated-content__wrapper--hidden {
@@ -141,13 +141,13 @@ exports[`<Home /> should render correctly with admin user 1`] = `
 }
       </style>
       <div
-        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+        class="sc-iBYQkv ibAsva animated-content__wrapper--hidden"
       >
         <span
-          class="sc-kDDrLX bMvsic"
+          class="sc-kDvujY bffeOZ"
         >
           <span
-            class="sc-jSMfEi kskSGE"
+            class="sc-jSUZER jmoeZg"
           >
             In undefined it's undefined:undefined, so it's likely to be happy hour there.
           </span>
@@ -155,7 +155,7 @@ exports[`<Home /> should render correctly with admin user 1`] = `
       </div>
     </div>
     <div
-      class="sc-ftvSup laBHLg"
+      class="sc-ftTHYK jctzJl"
     >
       <style>
         .js .animated-content__wrapper--hidden {
@@ -164,13 +164,13 @@ exports[`<Home /> should render correctly with admin user 1`] = `
 }
       </style>
       <div
-        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+        class="sc-iBYQkv ibAsva animated-content__wrapper--hidden"
       >
         <span
-          class="sc-kDDrLX bMvsic"
+          class="sc-kDvujY bffeOZ"
         >
           <span
-            class="sc-jSMfEi kskSGE"
+            class="sc-jSUZER jmoeZg"
           >
             Travelling all that way would be environmentally unfriendly, so you're really doing us all a favour by staying where you are and having a beer.
           </span>
@@ -178,7 +178,7 @@ exports[`<Home /> should render correctly with admin user 1`] = `
       </div>
     </div>
     <div
-      class="sc-ftvSup laBHLg"
+      class="sc-ftTHYK jctzJl"
     >
       <style>
         .js .animated-content__wrapper--hidden {
@@ -187,13 +187,13 @@ exports[`<Home /> should render correctly with admin user 1`] = `
 }
       </style>
       <div
-        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+        class="sc-iBYQkv ibAsva animated-content__wrapper--hidden"
       >
         <span
-          class="sc-kDDrLX bMvsic"
+          class="sc-kDvujY bffeOZ"
         >
           <span
-            class="sc-jSMfEi kskSGE"
+            class="sc-jSUZER jmoeZg"
           >
             Cheers 🍻
           </span>
@@ -207,11 +207,11 @@ exports[`<Home /> should render correctly with admin user 1`] = `
 exports[`<Home /> should render correctly with no user 1`] = `
 <div>
   <div
-    class="sc-bczRLJ gmscGQ page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    class="sc-bcXHqe fjKhSJ page-containerstyles__StyledPageContainer-sc-19l7k4-0"
     width="default"
   >
     <div
-      class="sc-ftvSup laBHLg"
+      class="sc-ftTHYK jctzJl"
     >
       <style>
         .js .animated-content__wrapper--hidden {
@@ -220,13 +220,13 @@ exports[`<Home /> should render correctly with no user 1`] = `
 }
       </style>
       <div
-        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+        class="sc-iBYQkv ibAsva animated-content__wrapper--hidden"
       >
         <div
-          class="homestyles__AnswerWrapper-sc-d0smz9-0 iWmeiL"
+          class="homestyles__AnswerWrapper-sc-d0smz9-0 eCsMMo"
         >
           <span
-            class="sc-jSMfEi cSTHCK homestyles__Answer-sc-d0smz9-1 kSqXIm"
+            class="sc-jSUZER bjWoVS homestyles__Answer-sc-d0smz9-1 hUhXhl"
           >
             YES!
           </span>
@@ -234,7 +234,7 @@ exports[`<Home /> should render correctly with no user 1`] = `
       </div>
     </div>
     <div
-      class="sc-ftvSup laBHLg"
+      class="sc-ftTHYK jctzJl"
     >
       <style>
         .js .animated-content__wrapper--hidden {
@@ -243,13 +243,13 @@ exports[`<Home /> should render correctly with no user 1`] = `
 }
       </style>
       <div
-        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+        class="sc-iBYQkv ibAsva animated-content__wrapper--hidden"
       >
         <span
-          class="sc-kDDrLX bMvsic"
+          class="sc-kDvujY bffeOZ"
         >
           <span
-            class="sc-jSMfEi kskSGE"
+            class="sc-jSUZER jmoeZg"
           >
             In undefined it's undefined:undefined, so it's likely to be happy hour there.
           </span>
@@ -257,7 +257,7 @@ exports[`<Home /> should render correctly with no user 1`] = `
       </div>
     </div>
     <div
-      class="sc-ftvSup laBHLg"
+      class="sc-ftTHYK jctzJl"
     >
       <style>
         .js .animated-content__wrapper--hidden {
@@ -266,13 +266,13 @@ exports[`<Home /> should render correctly with no user 1`] = `
 }
       </style>
       <div
-        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+        class="sc-iBYQkv ibAsva animated-content__wrapper--hidden"
       >
         <span
-          class="sc-kDDrLX bMvsic"
+          class="sc-kDvujY bffeOZ"
         >
           <span
-            class="sc-jSMfEi kskSGE"
+            class="sc-jSUZER jmoeZg"
           >
             Travelling all that way would be environmentally unfriendly, so you're really doing us all a favour by staying where you are and having a beer.
           </span>
@@ -280,7 +280,7 @@ exports[`<Home /> should render correctly with no user 1`] = `
       </div>
     </div>
     <div
-      class="sc-ftvSup laBHLg"
+      class="sc-ftTHYK jctzJl"
     >
       <style>
         .js .animated-content__wrapper--hidden {
@@ -289,13 +289,13 @@ exports[`<Home /> should render correctly with no user 1`] = `
 }
       </style>
       <div
-        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+        class="sc-iBYQkv ibAsva animated-content__wrapper--hidden"
       >
         <span
-          class="sc-kDDrLX bMvsic"
+          class="sc-kDvujY bffeOZ"
         >
           <span
-            class="sc-jSMfEi kskSGE"
+            class="sc-jSUZER jmoeZg"
           >
             Cheers 🍻
           </span>
@@ -309,11 +309,11 @@ exports[`<Home /> should render correctly with no user 1`] = `
 exports[`<Home /> should render correctly with user 1`] = `
 <div>
   <div
-    class="sc-bczRLJ gmscGQ page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+    class="sc-bcXHqe fjKhSJ page-containerstyles__StyledPageContainer-sc-19l7k4-0"
     width="default"
   >
     <div
-      class="sc-ftvSup laBHLg"
+      class="sc-ftTHYK jctzJl"
     >
       <style>
         .js .animated-content__wrapper--hidden {
@@ -322,13 +322,13 @@ exports[`<Home /> should render correctly with user 1`] = `
 }
       </style>
       <div
-        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+        class="sc-iBYQkv ibAsva animated-content__wrapper--hidden"
       >
         <div
-          class="homestyles__AnswerWrapper-sc-d0smz9-0 iWmeiL"
+          class="homestyles__AnswerWrapper-sc-d0smz9-0 eCsMMo"
         >
           <span
-            class="sc-jSMfEi cSTHCK homestyles__Answer-sc-d0smz9-1 kSqXIm"
+            class="sc-jSUZER bjWoVS homestyles__Answer-sc-d0smz9-1 hUhXhl"
           >
             YES!
           </span>
@@ -336,7 +336,7 @@ exports[`<Home /> should render correctly with user 1`] = `
       </div>
     </div>
     <div
-      class="sc-ftvSup laBHLg"
+      class="sc-ftTHYK jctzJl"
     >
       <style>
         .js .animated-content__wrapper--hidden {
@@ -345,13 +345,13 @@ exports[`<Home /> should render correctly with user 1`] = `
 }
       </style>
       <div
-        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+        class="sc-iBYQkv ibAsva animated-content__wrapper--hidden"
       >
         <span
-          class="sc-kDDrLX bMvsic"
+          class="sc-kDvujY bffeOZ"
         >
           <span
-            class="sc-jSMfEi kskSGE"
+            class="sc-jSUZER jmoeZg"
           >
             In undefined it's undefined:undefined, so it's likely to be happy hour there.
           </span>
@@ -359,7 +359,7 @@ exports[`<Home /> should render correctly with user 1`] = `
       </div>
     </div>
     <div
-      class="sc-ftvSup laBHLg"
+      class="sc-ftTHYK jctzJl"
     >
       <style>
         .js .animated-content__wrapper--hidden {
@@ -368,13 +368,13 @@ exports[`<Home /> should render correctly with user 1`] = `
 }
       </style>
       <div
-        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+        class="sc-iBYQkv ibAsva animated-content__wrapper--hidden"
       >
         <span
-          class="sc-kDDrLX bMvsic"
+          class="sc-kDvujY bffeOZ"
         >
           <span
-            class="sc-jSMfEi kskSGE"
+            class="sc-jSUZER jmoeZg"
           >
             Travelling all that way would be environmentally unfriendly, so you're really doing us all a favour by staying where you are and having a beer.
           </span>
@@ -382,7 +382,7 @@ exports[`<Home /> should render correctly with user 1`] = `
       </div>
     </div>
     <div
-      class="sc-ftvSup laBHLg"
+      class="sc-ftTHYK jctzJl"
     >
       <style>
         .js .animated-content__wrapper--hidden {
@@ -391,13 +391,13 @@ exports[`<Home /> should render correctly with user 1`] = `
 }
       </style>
       <div
-        class="sc-iBkjds bhKksC animated-content__wrapper--hidden"
+        class="sc-iBYQkv ibAsva animated-content__wrapper--hidden"
       >
         <span
-          class="sc-kDDrLX bMvsic"
+          class="sc-kDvujY bffeOZ"
         >
           <span
-            class="sc-jSMfEi kskSGE"
+            class="sc-jSUZER jmoeZg"
           >
             Cheers 🍻
           </span>
