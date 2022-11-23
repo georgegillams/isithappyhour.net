@@ -1,9 +1,180 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<Layout /> Should render correctly 1`] = `
+.c11 {
+  width: 1.25rem;
+  height: 1.25rem;
+}
+
+.c8 {
+  display: inline-block;
+  border-radius: 0.25rem;
+  font-weight: bold;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  position: relative;
+  color: white;
+  fill: white;
+}
+
+.c8:focus-within,
+.c8:focus {
+  position: relative;
+  outline: none !important;
+}
+
+.c8:focus-within::after,
+.c8:focus::after {
+  position: absolute;
+  top: -0.35rem;
+  right: -0.35rem;
+  bottom: -0.35rem;
+  left: -0.35rem;
+  content: '';
+  display: block;
+  border: solid rgba(0,125,250,0.6) 0.2rem;
+  border-radius: 0.5rem;
+  pointer-events: none;
+}
+
+.c8:hover {
+  color: white;
+  fill: white;
+}
+
+.c10 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  width: 0.4rem;
+  height: 1rem;
+  margin-left: 0.55rem;
+}
+
+.c12 {
+  position: absolute;
+  width: 1rem;
+  height: 1rem;
+  margin-top: 0.12rem;
+  margin-left: -0.45rem;
+}
+
+.c9 {
+  margin: 0;
+}
+
+.c6 {
+  display: inline-block;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  line-height: 1.5;
+  margin-top: 2rem;
+}
+
+.c6:first-of-type {
+  margin-top: 0.86rem;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  margin-top: 0.5rem;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 2rem 1rem;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: space-around;
+  -webkit-justify-content: space-around;
+  -ms-flex-pack: space-around;
+  justify-content: space-around;
+  border-top: solid #1e1e1e 0.15rem;
+  background-color: #1e1e1e;
+  background-position: center;
+  background-size: cover;
+  color: white;
+}
+
+.c5 {
+  text-align: center;
+}
+
+.c0 {
+  width: 100%;
+}
+
+.c1 {
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+}
+
+.c3 {
+  padding-top: 0;
+  opacity: 1;
+  -webkit-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+}
+
+.c2 {
+  width: 100%;
+}
+
+@media (prefers-color-scheme:dark) {
+  .c8:focus-within::after,
+  .c8:focus::after {
+    border-color: rgba(0,125,250,0.6);
+  }
+}
+
+@media (prefers-color-scheme:dark) {
+  .c8 {
+    color: white;
+    fill: white;
+  }
+
+  .c8:hover {
+    color: white;
+    fill: white;
+  }
+}
+
+@media (min-width:32.25rem) {
+  .c4 {
+    padding: 2rem 2rem;
+  }
+}
+
+@media (prefers-color-scheme:dark) {
+  .c4 {
+    border-top: solid #44aeff 0.15rem;
+  }
+}
+
 <div>
   <main
-    class="main-wrapperstyles__StyledMainWrapper-sc-hveppy-0 llAgSZ common-layoutstyles__StyledMainWrapper-sc-1orix3m-0 ccuVuN"
+    class="c0 c1"
     id="main"
   >
     <div>
@@ -11,7 +182,7 @@ exports[`<Layout /> Should render correctly 1`] = `
     </div>
   </main>
   <div
-    class="sc-ipEyDJ cGLKSq"
+    class="c2"
   >
     <style>
       .js .animated-content__wrapper--hidden {
@@ -19,33 +190,37 @@ exports[`<Layout /> Should render correctly 1`] = `
 }
     </style>
     <div
-      class="sc-kDvujY gFLbNj animated-content__wrapper--hidden"
+      class="c3 animated-content__wrapper--hidden"
     >
       <footer
-        class="footerstyles__Container-sc-ojjd19-0 jwEgwh"
+        class="c4"
         id="footer"
       >
         <div
-          class="footerstyles__StyledTechSpecs-sc-ojjd19-1 eCCBIR"
+          class="c5"
         >
           <span
-            class="sc-jrcTuL dRJySQ tech-specsstyles__StyledParagraph-sc-1ysn53a-0 hLsLJb"
+            class="c6 c7"
           >
             Made with love by
              
             <a
               aria-label="George (opens in a new tab)"
-              class="sc-iBYQkv cCatJA"
+              class="c8"
               href="https://www.georgegillams.co.uk/"
               rel="noopener noreferrer"
               target="_blank"
             >
-              George
+              <span
+                class="c9"
+              >
+                George
+              </span>
               <div
-                class="sc-ftTHYK dbfjGz"
+                class="c10"
               >
                 <svg
-                  class="sc-gKPRtg eSdzmv sc-pyfCe hLCbyO"
+                  class="c11 c12"
                   height="18"
                   viewBox="0 0 24 24"
                   width="18"
@@ -59,7 +234,7 @@ exports[`<Layout /> Should render correctly 1`] = `
             </a>
           </span>
           <span
-            class="sc-jrcTuL dRJySQ tech-specsstyles__StyledParagraph-sc-1ysn53a-0 hLsLJb"
+            class="c6 c7"
           >
             Please do not share with anyone under the legal purchase age for alcohol. Drink Responsibly.
           </span>
@@ -71,9 +246,180 @@ exports[`<Layout /> Should render correctly 1`] = `
 `;
 
 exports[`<Layout /> Should render correctly with spread props 1`] = `
+.c11 {
+  width: 1.25rem;
+  height: 1.25rem;
+}
+
+.c8 {
+  display: inline-block;
+  border-radius: 0.25rem;
+  font-weight: bold;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  position: relative;
+  color: white;
+  fill: white;
+}
+
+.c8:focus-within,
+.c8:focus {
+  position: relative;
+  outline: none !important;
+}
+
+.c8:focus-within::after,
+.c8:focus::after {
+  position: absolute;
+  top: -0.35rem;
+  right: -0.35rem;
+  bottom: -0.35rem;
+  left: -0.35rem;
+  content: '';
+  display: block;
+  border: solid rgba(0,125,250,0.6) 0.2rem;
+  border-radius: 0.5rem;
+  pointer-events: none;
+}
+
+.c8:hover {
+  color: white;
+  fill: white;
+}
+
+.c10 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  width: 0.4rem;
+  height: 1rem;
+  margin-left: 0.55rem;
+}
+
+.c12 {
+  position: absolute;
+  width: 1rem;
+  height: 1rem;
+  margin-top: 0.12rem;
+  margin-left: -0.45rem;
+}
+
+.c9 {
+  margin: 0;
+}
+
+.c6 {
+  display: inline-block;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  line-height: 1.5;
+  margin-top: 2rem;
+}
+
+.c6:first-of-type {
+  margin-top: 0.86rem;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  margin-top: 0.5rem;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 2rem 1rem;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: space-around;
+  -webkit-justify-content: space-around;
+  -ms-flex-pack: space-around;
+  justify-content: space-around;
+  border-top: solid #1e1e1e 0.15rem;
+  background-color: #1e1e1e;
+  background-position: center;
+  background-size: cover;
+  color: white;
+}
+
+.c5 {
+  text-align: center;
+}
+
+.c0 {
+  width: 100%;
+}
+
+.c1 {
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+}
+
+.c3 {
+  padding-top: 0;
+  opacity: 1;
+  -webkit-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+}
+
+.c2 {
+  width: 100%;
+}
+
+@media (prefers-color-scheme:dark) {
+  .c8:focus-within::after,
+  .c8:focus::after {
+    border-color: rgba(0,125,250,0.6);
+  }
+}
+
+@media (prefers-color-scheme:dark) {
+  .c8 {
+    color: white;
+    fill: white;
+  }
+
+  .c8:hover {
+    color: white;
+    fill: white;
+  }
+}
+
+@media (min-width:32.25rem) {
+  .c4 {
+    padding: 2rem 2rem;
+  }
+}
+
+@media (prefers-color-scheme:dark) {
+  .c4 {
+    border-top: solid #44aeff 0.15rem;
+  }
+}
+
 <div>
   <main
-    class="main-wrapperstyles__StyledMainWrapper-sc-hveppy-0 llAgSZ common-layoutstyles__StyledMainWrapper-sc-1orix3m-0 ccuVuN"
+    class="c0 c1"
     id="main"
   >
     <div>
@@ -81,7 +427,7 @@ exports[`<Layout /> Should render correctly with spread props 1`] = `
     </div>
   </main>
   <div
-    class="sc-ipEyDJ cGLKSq"
+    class="c2"
   >
     <style>
       .js .animated-content__wrapper--hidden {
@@ -89,33 +435,37 @@ exports[`<Layout /> Should render correctly with spread props 1`] = `
 }
     </style>
     <div
-      class="sc-kDvujY gFLbNj animated-content__wrapper--hidden"
+      class="c3 animated-content__wrapper--hidden"
     >
       <footer
-        class="footerstyles__Container-sc-ojjd19-0 jwEgwh"
+        class="c4"
         id="footer"
       >
         <div
-          class="footerstyles__StyledTechSpecs-sc-ojjd19-1 eCCBIR"
+          class="c5"
         >
           <span
-            class="sc-jrcTuL dRJySQ tech-specsstyles__StyledParagraph-sc-1ysn53a-0 hLsLJb"
+            class="c6 c7"
           >
             Made with love by
              
             <a
               aria-label="George (opens in a new tab)"
-              class="sc-iBYQkv cCatJA"
+              class="c8"
               href="https://www.georgegillams.co.uk/"
               rel="noopener noreferrer"
               target="_blank"
             >
-              George
+              <span
+                class="c9"
+              >
+                George
+              </span>
               <div
-                class="sc-ftTHYK dbfjGz"
+                class="c10"
               >
                 <svg
-                  class="sc-gKPRtg eSdzmv sc-pyfCe hLCbyO"
+                  class="c11 c12"
                   height="18"
                   viewBox="0 0 24 24"
                   width="18"
@@ -129,7 +479,7 @@ exports[`<Layout /> Should render correctly with spread props 1`] = `
             </a>
           </span>
           <span
-            class="sc-jrcTuL dRJySQ tech-specsstyles__StyledParagraph-sc-1ysn53a-0 hLsLJb"
+            class="c6 c7"
           >
             Please do not share with anyone under the legal purchase age for alcohol. Drink Responsibly.
           </span>
