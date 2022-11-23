@@ -6,7 +6,7 @@ const TechSpecs = props => {
   return (
     <div {...props}>
       <StyledParagraph>
-        Made with love by{' '}
+        Made with love by{'\u0020\n'}
         <TextLink href="https://www.georgegillams.co.uk/" hrefExternal>
           George
         </TextLink>
