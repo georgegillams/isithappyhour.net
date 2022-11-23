@@ -11,7 +11,7 @@ test('allows a user to be created', () => {
     cookies: {},
     body: {
       uname: 'user1',
-      email: 'test-user1@isithappyhour.net',
+      email: 'test-user1@georgegillams.co.uk',
     },
   };
 
@@ -24,7 +24,7 @@ test('allows a user to be created', () => {
       expect(result.errorMessage).toBe(undefined);
       expect(result.authorId).toBe(undefined);
 
-      expect(result.email).toBe('test-user1@isithappyhour.net');
+      expect(result.email).toBe('test-user1@georgegillams.co.uk');
       expect(result.uname).toBe('user1');
 
       expect(result.id).toBeTruthy();
@@ -57,7 +57,7 @@ test('returns error if username is taken', () => {
     cookies: {},
     body: {
       uname: 'user1',
-      email: 'test-user2@isithappyhour.net',
+      email: 'test-user2@georgegillams.co.uk',
     },
   };
 
@@ -78,7 +78,7 @@ test('returns error if email is taken', () => {
     cookies: {},
     body: {
       uname: 'user2',
-      email: 'test-user1@isithappyhour.net',
+      email: 'test-user1@georgegillams.co.uk',
     },
   };
 

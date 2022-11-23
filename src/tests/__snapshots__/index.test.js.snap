@@ -1,17 +1,245 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<HomePage /> should render correctly 1`] = `
+.c2 {
+  display: block;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  overflow: hidden;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  text-align: center;
+  max-width: 60rem;
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+
+.c6 {
+  margin: 0;
+}
+
+.c9 {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.c5 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.c7 {
+  font-size: 8rem;
+}
+
+.c4 {
+  padding-top: 0;
+  opacity: 1;
+  -webkit-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+}
+
+.c3 {
+  width: 100%;
+}
+
+.c8 {
+  display: inline-block;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  line-height: 1.5;
+  margin-top: 2rem;
+}
+
+.c8:first-of-type {
+  margin-top: 0.86rem;
+}
+
+.c15 {
+  width: 1.25rem;
+  height: 1.25rem;
+}
+
+.c13 {
+  display: inline-block;
+  border-radius: 0.25rem;
+  font-weight: bold;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  position: relative;
+  color: white;
+  fill: white;
+}
+
+.c13:focus-within,
+.c13:focus {
+  position: relative;
+  outline: none !important;
+}
+
+.c13:focus-within::after,
+.c13:focus::after {
+  position: absolute;
+  top: -0.35rem;
+  right: -0.35rem;
+  bottom: -0.35rem;
+  left: -0.35rem;
+  content: '';
+  display: block;
+  border: solid rgba(0,125,250,0.6) 0.2rem;
+  border-radius: 0.5rem;
+  pointer-events: none;
+}
+
+.c13:hover {
+  color: white;
+  fill: white;
+}
+
+.c14 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  width: 0.4rem;
+  height: 1rem;
+  margin-left: 0.55rem;
+}
+
+.c16 {
+  position: absolute;
+  width: 1rem;
+  height: 1rem;
+  margin-top: 0.12rem;
+  margin-left: -0.45rem;
+}
+
+.c12 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  margin-top: 0.5rem;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c10 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 2rem 1rem;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: space-around;
+  -webkit-justify-content: space-around;
+  -ms-flex-pack: space-around;
+  justify-content: space-around;
+  border-top: solid #1e1e1e 0.15rem;
+  background-color: #1e1e1e;
+  background-position: center;
+  background-size: cover;
+  color: white;
+}
+
+.c11 {
+  text-align: center;
+}
+
+.c0 {
+  width: 100%;
+}
+
+.c1 {
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+}
+
+@media (min-width:50.25rem) {
+  .c2 {
+    padding-right: 2rem;
+    padding-left: 2rem;
+  }
+}
+
+@media (min-width:32.25rem) {
+  .c7 {
+    font-size: 10rem;
+  }
+}
+
+@media (min-width:50.25rem) {
+  .c7 {
+    font-size: 18rem;
+  }
+}
+
+@media (prefers-color-scheme:dark) {
+  .c13:focus-within::after,
+  .c13:focus::after {
+    border-color: rgba(0,125,250,0.6);
+  }
+}
+
+@media (prefers-color-scheme:dark) {
+  .c13 {
+    color: white;
+    fill: white;
+  }
+
+  .c13:hover {
+    color: white;
+    fill: white;
+  }
+}
+
+@media (min-width:32.25rem) {
+  .c10 {
+    padding: 2rem 2rem;
+  }
+}
+
+@media (prefers-color-scheme:dark) {
+  .c10 {
+    border-top: solid #44aeff 0.15rem;
+  }
+}
+
 <div>
   <main
-    class="main-wrapperstyles__StyledMainWrapper-sc-hveppy-0 llAgSZ common-layoutstyles__StyledMainWrapper-sc-1orix3m-0 ccuVuN"
+    class="c0 c1"
     id="main"
   >
     <div
-      class="sc-bcXHqe fjKhSJ page-containerstyles__StyledPageContainer-sc-19l7k4-0"
+      class="c2 page-containerstyles__StyledPageContainer-sc-19l7k4-0"
       width="default"
     >
       <div
-        class="sc-ftTHYK jctzJl"
+        class="c3"
       >
         <style>
           .js .animated-content__wrapper--hidden {
@@ -20,13 +248,13 @@ exports[`<HomePage /> should render correctly 1`] = `
 }
         </style>
         <div
-          class="sc-iBYQkv ibAsva animated-content__wrapper--hidden"
+          class="c4 animated-content__wrapper--hidden"
         >
           <div
-            class="homestyles__AnswerWrapper-sc-d0smz9-0 eCsMMo"
+            class="c5"
           >
             <span
-              class="sc-jSUZER bjWoVS homestyles__Answer-sc-d0smz9-1 hUhXhl"
+              class="c6 c7"
             >
               YES!
             </span>
@@ -34,7 +262,7 @@ exports[`<HomePage /> should render correctly 1`] = `
         </div>
       </div>
       <div
-        class="sc-ftTHYK jctzJl"
+        class="c3"
       >
         <style>
           .js .animated-content__wrapper--hidden {
@@ -43,13 +271,13 @@ exports[`<HomePage /> should render correctly 1`] = `
 }
         </style>
         <div
-          class="sc-iBYQkv ibAsva animated-content__wrapper--hidden"
+          class="c4 animated-content__wrapper--hidden"
         >
           <span
-            class="sc-kDvujY bffeOZ"
+            class="c8"
           >
             <span
-              class="sc-jSUZER jmoeZg"
+              class="c9"
             >
               In undefined it's undefined:undefined, so it's likely to be happy hour there.
             </span>
@@ -57,7 +285,7 @@ exports[`<HomePage /> should render correctly 1`] = `
         </div>
       </div>
       <div
-        class="sc-ftTHYK jctzJl"
+        class="c3"
       >
         <style>
           .js .animated-content__wrapper--hidden {
@@ -66,13 +294,13 @@ exports[`<HomePage /> should render correctly 1`] = `
 }
         </style>
         <div
-          class="sc-iBYQkv ibAsva animated-content__wrapper--hidden"
+          class="c4 animated-content__wrapper--hidden"
         >
           <span
-            class="sc-kDvujY bffeOZ"
+            class="c8"
           >
             <span
-              class="sc-jSUZER jmoeZg"
+              class="c9"
             >
               Travelling all that way would be environmentally unfriendly, so you're really doing us all a favour by staying where you are and having a beer.
             </span>
@@ -80,7 +308,7 @@ exports[`<HomePage /> should render correctly 1`] = `
         </div>
       </div>
       <div
-        class="sc-ftTHYK jctzJl"
+        class="c3"
       >
         <style>
           .js .animated-content__wrapper--hidden {
@@ -89,13 +317,13 @@ exports[`<HomePage /> should render correctly 1`] = `
 }
         </style>
         <div
-          class="sc-iBYQkv ibAsva animated-content__wrapper--hidden"
+          class="c4 animated-content__wrapper--hidden"
         >
           <span
-            class="sc-kDvujY bffeOZ"
+            class="c8"
           >
             <span
-              class="sc-jSUZER jmoeZg"
+              class="c9"
             >
               Cheers 🍻
             </span>
@@ -105,7 +333,7 @@ exports[`<HomePage /> should render correctly 1`] = `
     </div>
   </main>
   <div
-    class="sc-ftTHYK jctzJl"
+    class="c3"
   >
     <style>
       .js .animated-content__wrapper--hidden {
@@ -113,33 +341,37 @@ exports[`<HomePage /> should render correctly 1`] = `
 }
     </style>
     <div
-      class="sc-iBYQkv ibAsva animated-content__wrapper--hidden"
+      class="c4 animated-content__wrapper--hidden"
     >
       <footer
-        class="footerstyles__Container-sc-ojjd19-0 jwEgwh"
+        class="c10"
         id="footer"
       >
         <div
-          class="footerstyles__StyledTechSpecs-sc-ojjd19-1 eCCBIR"
+          class="c11"
         >
           <span
-            class="sc-kDvujY bffeOZ tech-specsstyles__StyledParagraph-sc-1ysn53a-0 hLsLJb"
+            class="c8 c12"
           >
             Made with love by
              
             <a
               aria-label="George (opens in a new tab)"
-              class="sc-csuSiG eTsbyq"
+              class="c13"
               href="https://www.georgegillams.co.uk/"
               rel="noopener noreferrer"
               target="_blank"
             >
-              George
+              <span
+                class="c6"
+              >
+                George
+              </span>
               <div
-                class="sc-eDWCr sqEDo"
+                class="c14"
               >
                 <svg
-                  class="sc-ipEyDJ bYdzwB sc-bqWxrE cqbVE"
+                  class="c15 c16"
                   height="18"
                   viewBox="0 0 24 24"
                   width="18"
@@ -153,7 +385,7 @@ exports[`<HomePage /> should render correctly 1`] = `
             </a>
           </span>
           <span
-            class="sc-kDvujY bffeOZ tech-specsstyles__StyledParagraph-sc-1ysn53a-0 hLsLJb"
+            class="c8 c12"
           >
             Please do not share with anyone under the legal purchase age for alcohol. Drink Responsibly.
           </span>
