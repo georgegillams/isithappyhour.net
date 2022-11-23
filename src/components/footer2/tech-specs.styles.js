@@ -2,12 +2,8 @@ import Paragraph from '@george-gillams/components/paragraph';
 import styled from 'styled-components';
 
 export const StyledParagraph = styled(Paragraph)`
-  display: flex;
   width: 100%;
   margin-top: 0.5rem;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
 `;
 
 export const Icon = styled.img`
