@@ -1,6 +1,6 @@
 # Don't check auto-generated stuff into git
 .idea
-.next/
+.next
 coverage
 node_modules
 stats.json
