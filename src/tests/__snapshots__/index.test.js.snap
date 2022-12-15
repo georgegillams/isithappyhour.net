@@ -260,52 +260,7 @@ exports[`<HomePage /> should render correctly 1`] = `
         >
           <span
             class="c8"
-          >
-            <span
-              class="c9"
-            >
-              In undefined it's undefined:undefined, so it's likely to be happy hour there.
-            </span>
-          </span>
-        </div>
-      </div>
-      <div
-        class="c3"
-      >
-        <style>
-          .js .animated-content__wrapper--hidden {
-  padding-top: 4rem;
-  opacity: 0.01;
-}
-        </style>
-        <div
-          class="c4 animated-content__wrapper--hidden"
-        >
-          <span
-            class="c8"
-          >
-            <span
-              class="c9"
-            >
-              Travelling all that way would be environmentally unfriendly, so you're really doing us all a favour by staying where you are and having a beer.
-            </span>
-          </span>
-        </div>
-      </div>
-      <div
-        class="c3"
-      >
-        <style>
-          .js .animated-content__wrapper--hidden {
-  padding-top: 4rem;
-  opacity: 0.01;
-}
-        </style>
-        <div
-          class="c4 animated-content__wrapper--hidden"
-        >
-          <span
-            class="c8"
+            style="margin-bottom: 1rem;"
           >
             <span
               class="c9"
