@@ -1,7 +1,7 @@
 import reqSecure from 'server-utils/common/reqSecure';
 import { utcToZonedTime } from 'date-fns-tz';
 import timeZones from './time-zones.json';
-import { isAfter } from 'date-fns';
+import { isHappyHour } from 'helpers/happy-hour';
 
 const formatPlace = place => place.split('_').join(' ');
 
@@ -20,16 +20,7 @@ const getTimezone = () => {
   const shuffledTimeZones = timeZones.sort(() => 0.5 - Math.random());
   for (let timeZone of shuffledTimeZones) {
     const dateInTimeZone = utcToZonedTime(now, timeZone);
-    const hhStart = new Date(
-      dateInTimeZone.getFullYear(),
-      dateInTimeZone.getMonth(),
-      dateInTimeZone.getDate(),
-      17,
-      0,
-      0
-    );
-    const hhEnd = new Date(dateInTimeZone.getFullYear(), dateInTimeZone.getMonth(), dateInTimeZone.getDate(), 19, 0, 0);
-    if (isAfter(dateInTimeZone, hhStart) && isAfter(hhEnd, dateInTimeZone)) {
+    if (isHappyHour(dateInTimeZone)) {
       return {
         timeZone,
         dateInTimeZone,

@@ -127,52 +127,7 @@ exports[`<Home /> should render correctly 1`] = `
       >
         <span
           class="c6"
-        >
-          <span
-            class="c7"
-          >
-            In undefined it's undefined:undefined, so it's likely to be happy hour there.
-          </span>
-        </span>
-      </div>
-    </div>
-    <div
-      class="c1"
-    >
-      <style>
-        .js .animated-content__wrapper--hidden {
-  padding-top: 4rem;
-  opacity: 0.01;
-}
-      </style>
-      <div
-        class="c2 animated-content__wrapper--hidden"
-      >
-        <span
-          class="c6"
-        >
-          <span
-            class="c7"
-          >
-            Travelling all that way would be environmentally unfriendly, so you're really doing us all a favour by staying where you are and having a beer.
-          </span>
-        </span>
-      </div>
-    </div>
-    <div
-      class="c1"
-    >
-      <style>
-        .js .animated-content__wrapper--hidden {
-  padding-top: 4rem;
-  opacity: 0.01;
-}
-      </style>
-      <div
-        class="c2 animated-content__wrapper--hidden"
-      >
-        <span
-          class="c6"
+          style="margin-bottom: 1rem;"
         >
           <span
             class="c7"
@@ -313,52 +268,7 @@ exports[`<Home /> should render correctly with admin user 1`] = `
       >
         <span
           class="c6"
-        >
-          <span
-            class="c7"
-          >
-            In undefined it's undefined:undefined, so it's likely to be happy hour there.
-          </span>
-        </span>
-      </div>
-    </div>
-    <div
-      class="c1"
-    >
-      <style>
-        .js .animated-content__wrapper--hidden {
-  padding-top: 4rem;
-  opacity: 0.01;
-}
-      </style>
-      <div
-        class="c2 animated-content__wrapper--hidden"
-      >
-        <span
-          class="c6"
-        >
-          <span
-            class="c7"
-          >
-            Travelling all that way would be environmentally unfriendly, so you're really doing us all a favour by staying where you are and having a beer.
-          </span>
-        </span>
-      </div>
-    </div>
-    <div
-      class="c1"
-    >
-      <style>
-        .js .animated-content__wrapper--hidden {
-  padding-top: 4rem;
-  opacity: 0.01;
-}
-      </style>
-      <div
-        class="c2 animated-content__wrapper--hidden"
-      >
-        <span
-          class="c6"
+          style="margin-bottom: 1rem;"
         >
           <span
             class="c7"
@@ -499,52 +409,7 @@ exports[`<Home /> should render correctly with no user 1`] = `
       >
         <span
           class="c6"
-        >
-          <span
-            class="c7"
-          >
-            In undefined it's undefined:undefined, so it's likely to be happy hour there.
-          </span>
-        </span>
-      </div>
-    </div>
-    <div
-      class="c1"
-    >
-      <style>
-        .js .animated-content__wrapper--hidden {
-  padding-top: 4rem;
-  opacity: 0.01;
-}
-      </style>
-      <div
-        class="c2 animated-content__wrapper--hidden"
-      >
-        <span
-          class="c6"
-        >
-          <span
-            class="c7"
-          >
-            Travelling all that way would be environmentally unfriendly, so you're really doing us all a favour by staying where you are and having a beer.
-          </span>
-        </span>
-      </div>
-    </div>
-    <div
-      class="c1"
-    >
-      <style>
-        .js .animated-content__wrapper--hidden {
-  padding-top: 4rem;
-  opacity: 0.01;
-}
-      </style>
-      <div
-        class="c2 animated-content__wrapper--hidden"
-      >
-        <span
-          class="c6"
+          style="margin-bottom: 1rem;"
         >
           <span
             class="c7"
@@ -685,52 +550,7 @@ exports[`<Home /> should render correctly with user 1`] = `
       >
         <span
           class="c6"
-        >
-          <span
-            class="c7"
-          >
-            In undefined it's undefined:undefined, so it's likely to be happy hour there.
-          </span>
-        </span>
-      </div>
-    </div>
-    <div
-      class="c1"
-    >
-      <style>
-        .js .animated-content__wrapper--hidden {
-  padding-top: 4rem;
-  opacity: 0.01;
-}
-      </style>
-      <div
-        class="c2 animated-content__wrapper--hidden"
-      >
-        <span
-          class="c6"
-        >
-          <span
-            class="c7"
-          >
-            Travelling all that way would be environmentally unfriendly, so you're really doing us all a favour by staying where you are and having a beer.
-          </span>
-        </span>
-      </div>
-    </div>
-    <div
-      class="c1"
-    >
-      <style>
-        .js .animated-content__wrapper--hidden {
-  padding-top: 4rem;
-  opacity: 0.01;
-}
-      </style>
-      <div
-        class="c2 animated-content__wrapper--hidden"
-      >
-        <span
-          class="c6"
+          style="margin-bottom: 1rem;"
         >
           <span
             class="c7"
