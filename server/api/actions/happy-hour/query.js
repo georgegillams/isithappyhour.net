@@ -3,7 +3,7 @@ import { utcToZonedTime } from 'date-fns-tz';
 import timeZones from './time-zones.json';
 import { isHappyHour } from 'helpers/happy-hour';
 
-const formatPlace = place => place.split('_').join(' ');
+const formatPlace = place => place && place.split('_').join(' ');
 
 const formatLocation = timeZone => {
   const timeZoneSplit = timeZone.split('/');
