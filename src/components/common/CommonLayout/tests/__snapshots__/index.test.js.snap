@@ -1,12 +1,12 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<Layout /> Should render correctly 1`] = `
-.c11 {
+.c10 {
   width: 1.25rem;
   height: 1.25rem;
 }
 
-.c8 {
+.c7 {
   display: inline-block;
   border-radius: 0.25rem;
   font-weight: bold;
@@ -17,14 +17,14 @@ exports[`<Layout /> Should render correctly 1`] = `
   fill: white;
 }
 
-.c8:focus-within,
-.c8:focus {
+.c7:focus-within,
+.c7:focus {
   position: relative;
   outline: none !important;
 }
 
-.c8:focus-within::after,
-.c8:focus::after {
+.c7:focus-within::after,
+.c7:focus::after {
   position: absolute;
   top: -0.35rem;
   right: -0.35rem;
@@ -32,17 +32,17 @@ exports[`<Layout /> Should render correctly 1`] = `
   left: -0.35rem;
   content: '';
   display: block;
-  border: solid rgba(0,125,250,0.6) 0.2rem;
+  border: solid #007dfa3C 0.2rem;
   border-radius: 0.5rem;
   pointer-events: none;
 }
 
-.c8:hover {
+.c7:hover {
   color: white;
   fill: white;
 }
 
-.c10 {
+.c9 {
   display: -webkit-inline-box;
   display: -webkit-inline-flex;
   display: -ms-inline-flexbox;
@@ -52,7 +52,7 @@ exports[`<Layout /> Should render correctly 1`] = `
   margin-left: 0.55rem;
 }
 
-.c12 {
+.c11 {
   position: absolute;
   width: 1rem;
   height: 1rem;
@@ -60,11 +60,11 @@ exports[`<Layout /> Should render correctly 1`] = `
   margin-left: -0.45rem;
 }
 
-.c9 {
+.c8 {
   margin: 0;
 }
 
-.c6 {
+.c5 {
   display: inline-block;
   margin-bottom: 0;
   padding-bottom: 0;
@@ -72,16 +72,16 @@ exports[`<Layout /> Should render correctly 1`] = `
   margin-top: 2rem;
 }
 
-.c6:first-of-type {
+.c5:first-of-type {
   margin-top: 0.86rem;
 }
 
-.c7 {
+.c6 {
   width: 100%;
   margin-top: 0.5rem;
 }
 
-.c4 {
+.c3 {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -98,10 +98,10 @@ exports[`<Layout /> Should render correctly 1`] = `
   background-color: #1e1e1e;
   background-position: center;
   background-size: cover;
-  color: white;
+  color: #ffffff;
 }
 
-.c5 {
+.c4 {
   text-align: center;
 }
 
@@ -115,44 +115,40 @@ exports[`<Layout /> Should render correctly 1`] = `
   flex: 1 1 auto;
 }
 
-.c3 {
+.c2 {
   padding-top: 0;
   opacity: 1;
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
 }
 
-.c2 {
-  width: 100%;
-}
-
 @media (prefers-color-scheme:dark) {
-  .c8:focus-within::after,
-  .c8:focus::after {
-    border-color: rgba(0,125,250,0.6);
+  .c7:focus-within::after,
+  .c7:focus::after {
+    border-color: #007dfa3C;
   }
 }
 
 @media (prefers-color-scheme:dark) {
-  .c8 {
+  .c7 {
     color: white;
     fill: white;
   }
 
-  .c8:hover {
+  .c7:hover {
     color: white;
     fill: white;
   }
 }
 
 @media (min-width:32.25rem) {
-  .c4 {
+  .c3 {
     padding: 2rem 2rem;
   }
 }
 
 @media (prefers-color-scheme:dark) {
-  .c4 {
+  .c3 {
     border-top: solid #44aeff 0.15rem;
   }
 }
@@ -166,46 +162,44 @@ exports[`<Layout /> Should render correctly 1`] = `
       some text
     </div>
   </main>
-  <div
-    class="c2"
-  >
+  <div>
     <style>
       .js .animated-content__wrapper--hidden {
   opacity: 0.01;
 }
     </style>
     <div
-      class="c3 animated-content__wrapper--hidden"
+      class="c2 animated-content__wrapper--hidden"
     >
       <footer
-        class="c4"
+        class="c3"
         id="footer"
       >
         <div
-          class="c5"
+          class="c4"
         >
           <span
-            class="c6 c7"
+            class="c5 c6"
           >
             Made with love by
              
             <a
               aria-label="George (opens in a new tab)"
-              class="c8"
+              class="c7"
               href="https://www.georgegillams.co.uk/"
               rel="noopener noreferrer"
               target="_blank"
             >
               <span
-                class="c9"
+                class="c8"
               >
                 George
               </span>
               <div
-                class="c10"
+                class="c9"
               >
                 <svg
-                  class="c11 c12"
+                  class="c10 c11"
                   height="18"
                   viewBox="0 0 24 24"
                   width="18"
@@ -219,7 +213,7 @@ exports[`<Layout /> Should render correctly 1`] = `
             </a>
           </span>
           <span
-            class="c6 c7"
+            class="c5 c6"
           >
             Please do not share with anyone under the legal purchase age for alcohol. Drink Responsibly.
           </span>
@@ -231,12 +225,12 @@ exports[`<Layout /> Should render correctly 1`] = `
 `;
 
 exports[`<Layout /> Should render correctly with spread props 1`] = `
-.c11 {
+.c10 {
   width: 1.25rem;
   height: 1.25rem;
 }
 
-.c8 {
+.c7 {
   display: inline-block;
   border-radius: 0.25rem;
   font-weight: bold;
@@ -247,14 +241,14 @@ exports[`<Layout /> Should render correctly with spread props 1`] = `
   fill: white;
 }
 
-.c8:focus-within,
-.c8:focus {
+.c7:focus-within,
+.c7:focus {
   position: relative;
   outline: none !important;
 }
 
-.c8:focus-within::after,
-.c8:focus::after {
+.c7:focus-within::after,
+.c7:focus::after {
   position: absolute;
   top: -0.35rem;
   right: -0.35rem;
@@ -262,17 +256,17 @@ exports[`<Layout /> Should render correctly with spread props 1`] = `
   left: -0.35rem;
   content: '';
   display: block;
-  border: solid rgba(0,125,250,0.6) 0.2rem;
+  border: solid #007dfa3C 0.2rem;
   border-radius: 0.5rem;
   pointer-events: none;
 }
 
-.c8:hover {
+.c7:hover {
   color: white;
   fill: white;
 }
 
-.c10 {
+.c9 {
   display: -webkit-inline-box;
   display: -webkit-inline-flex;
   display: -ms-inline-flexbox;
@@ -282,7 +276,7 @@ exports[`<Layout /> Should render correctly with spread props 1`] = `
   margin-left: 0.55rem;
 }
 
-.c12 {
+.c11 {
   position: absolute;
   width: 1rem;
   height: 1rem;
@@ -290,11 +284,11 @@ exports[`<Layout /> Should render correctly with spread props 1`] = `
   margin-left: -0.45rem;
 }
 
-.c9 {
+.c8 {
   margin: 0;
 }
 
-.c6 {
+.c5 {
   display: inline-block;
   margin-bottom: 0;
   padding-bottom: 0;
@@ -302,16 +296,16 @@ exports[`<Layout /> Should render correctly with spread props 1`] = `
   margin-top: 2rem;
 }
 
-.c6:first-of-type {
+.c5:first-of-type {
   margin-top: 0.86rem;
 }
 
-.c7 {
+.c6 {
   width: 100%;
   margin-top: 0.5rem;
 }
 
-.c4 {
+.c3 {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -328,10 +322,10 @@ exports[`<Layout /> Should render correctly with spread props 1`] = `
   background-color: #1e1e1e;
   background-position: center;
   background-size: cover;
-  color: white;
+  color: #ffffff;
 }
 
-.c5 {
+.c4 {
   text-align: center;
 }
 
@@ -345,44 +339,40 @@ exports[`<Layout /> Should render correctly with spread props 1`] = `
   flex: 1 1 auto;
 }
 
-.c3 {
+.c2 {
   padding-top: 0;
   opacity: 1;
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
 }
 
-.c2 {
-  width: 100%;
-}
-
 @media (prefers-color-scheme:dark) {
-  .c8:focus-within::after,
-  .c8:focus::after {
-    border-color: rgba(0,125,250,0.6);
+  .c7:focus-within::after,
+  .c7:focus::after {
+    border-color: #007dfa3C;
   }
 }
 
 @media (prefers-color-scheme:dark) {
-  .c8 {
+  .c7 {
     color: white;
     fill: white;
   }
 
-  .c8:hover {
+  .c7:hover {
     color: white;
     fill: white;
   }
 }
 
 @media (min-width:32.25rem) {
-  .c4 {
+  .c3 {
     padding: 2rem 2rem;
   }
 }
 
 @media (prefers-color-scheme:dark) {
-  .c4 {
+  .c3 {
     border-top: solid #44aeff 0.15rem;
   }
 }
@@ -396,46 +386,44 @@ exports[`<Layout /> Should render correctly with spread props 1`] = `
       some text
     </div>
   </main>
-  <div
-    class="c2"
-  >
+  <div>
     <style>
       .js .animated-content__wrapper--hidden {
   opacity: 0.01;
 }
     </style>
     <div
-      class="c3 animated-content__wrapper--hidden"
+      class="c2 animated-content__wrapper--hidden"
     >
       <footer
-        class="c4"
+        class="c3"
         id="footer"
       >
         <div
-          class="c5"
+          class="c4"
         >
           <span
-            class="c6 c7"
+            class="c5 c6"
           >
             Made with love by
              
             <a
               aria-label="George (opens in a new tab)"
-              class="c8"
+              class="c7"
               href="https://www.georgegillams.co.uk/"
               rel="noopener noreferrer"
               target="_blank"
             >
               <span
-                class="c9"
+                class="c8"
               >
                 George
               </span>
               <div
-                class="c10"
+                class="c9"
               >
                 <svg
-                  class="c11 c12"
+                  class="c10 c11"
                   height="18"
                   viewBox="0 0 24 24"
                   width="18"
@@ -449,7 +437,7 @@ exports[`<Layout /> Should render correctly with spread props 1`] = `
             </a>
           </span>
           <span
-            class="c6 c7"
+            class="c5 c6"
           >
             Please do not share with anyone under the legal purchase age for alcohol. Drink Responsibly.
           </span>

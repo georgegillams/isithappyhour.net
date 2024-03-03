@@ -24,37 +24,33 @@ exports[`<Home /> should render correctly 1`] = `
   padding-left: 1rem;
 }
 
-.c4 {
+.c3 {
   margin: 0;
 }
 
-.c7 {
+.c6 {
   margin: 0;
   font-size: 1.5rem;
   font-weight: bold;
 }
 
-.c3 {
+.c2 {
   margin-top: 2rem;
   margin-bottom: 1rem;
 }
 
-.c5 {
+.c4 {
   font-size: 8rem;
 }
 
-.c2 {
+.c1 {
   padding-top: 0;
   opacity: 1;
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
 }
 
-.c1 {
-  width: 100%;
-}
-
-.c6 {
+.c5 {
   display: inline-block;
   margin-bottom: 0;
   padding-bottom: 0;
@@ -62,7 +58,7 @@ exports[`<Home /> should render correctly 1`] = `
   margin-top: 2rem;
 }
 
-.c6:first-of-type {
+.c5:first-of-type {
   margin-top: 0.86rem;
 }
 
@@ -74,13 +70,13 @@ exports[`<Home /> should render correctly 1`] = `
 }
 
 @media (min-width:32.25rem) {
-  .c5 {
+  .c4 {
     font-size: 10rem;
   }
 }
 
 @media (min-width:50.25rem) {
-  .c5 {
+  .c4 {
     font-size: 18rem;
   }
 }
@@ -90,9 +86,7 @@ exports[`<Home /> should render correctly 1`] = `
     class="c0 page-containerstyles__StyledPageContainer-sc-19l7k4-0"
     width="default"
   >
-    <div
-      class="c1"
-    >
+    <div>
       <style>
         .js .animated-content__wrapper--hidden {
   padding-top: 4rem;
@@ -100,22 +94,20 @@ exports[`<Home /> should render correctly 1`] = `
 }
       </style>
       <div
-        class="c2 animated-content__wrapper--hidden"
+        class="c1 animated-content__wrapper--hidden"
       >
         <div
-          class="c3"
+          class="c2"
         >
           <span
-            class="c4 c5"
+            class="c3 c4"
           >
             YES!
           </span>
         </div>
       </div>
     </div>
-    <div
-      class="c1"
-    >
+    <div>
       <style>
         .js .animated-content__wrapper--hidden {
   padding-top: 4rem;
@@ -123,14 +115,14 @@ exports[`<Home /> should render correctly 1`] = `
 }
       </style>
       <div
-        class="c2 animated-content__wrapper--hidden"
+        class="c1 animated-content__wrapper--hidden"
       >
         <span
-          class="c6"
+          class="c5"
           style="margin-bottom: 1rem;"
         >
           <span
-            class="c7"
+            class="c6"
           >
             Cheers 🍻
           </span>
@@ -165,37 +157,33 @@ exports[`<Home /> should render correctly with admin user 1`] = `
   padding-left: 1rem;
 }
 
-.c4 {
+.c3 {
   margin: 0;
 }
 
-.c7 {
+.c6 {
   margin: 0;
   font-size: 1.5rem;
   font-weight: bold;
 }
 
-.c3 {
+.c2 {
   margin-top: 2rem;
   margin-bottom: 1rem;
 }
 
-.c5 {
+.c4 {
   font-size: 8rem;
 }
 
-.c2 {
+.c1 {
   padding-top: 0;
   opacity: 1;
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
 }
 
-.c1 {
-  width: 100%;
-}
-
-.c6 {
+.c5 {
   display: inline-block;
   margin-bottom: 0;
   padding-bottom: 0;
@@ -203,7 +191,7 @@ exports[`<Home /> should render correctly with admin user 1`] = `
   margin-top: 2rem;
 }
 
-.c6:first-of-type {
+.c5:first-of-type {
   margin-top: 0.86rem;
 }
 
@@ -215,13 +203,13 @@ exports[`<Home /> should render correctly with admin user 1`] = `
 }
 
 @media (min-width:32.25rem) {
-  .c5 {
+  .c4 {
     font-size: 10rem;
   }
 }
 
 @media (min-width:50.25rem) {
-  .c5 {
+  .c4 {
     font-size: 18rem;
   }
 }
@@ -231,9 +219,7 @@ exports[`<Home /> should render correctly with admin user 1`] = `
     class="c0 page-containerstyles__StyledPageContainer-sc-19l7k4-0"
     width="default"
   >
-    <div
-      class="c1"
-    >
+    <div>
       <style>
         .js .animated-content__wrapper--hidden {
   padding-top: 4rem;
@@ -241,22 +227,20 @@ exports[`<Home /> should render correctly with admin user 1`] = `
 }
       </style>
       <div
-        class="c2 animated-content__wrapper--hidden"
+        class="c1 animated-content__wrapper--hidden"
       >
         <div
-          class="c3"
+          class="c2"
         >
           <span
-            class="c4 c5"
+            class="c3 c4"
           >
             YES!
           </span>
         </div>
       </div>
     </div>
-    <div
-      class="c1"
-    >
+    <div>
       <style>
         .js .animated-content__wrapper--hidden {
   padding-top: 4rem;
@@ -264,14 +248,14 @@ exports[`<Home /> should render correctly with admin user 1`] = `
 }
       </style>
       <div
-        class="c2 animated-content__wrapper--hidden"
+        class="c1 animated-content__wrapper--hidden"
       >
         <span
-          class="c6"
+          class="c5"
           style="margin-bottom: 1rem;"
         >
           <span
-            class="c7"
+            class="c6"
           >
             Cheers 🍻
           </span>
@@ -306,37 +290,33 @@ exports[`<Home /> should render correctly with no user 1`] = `
   padding-left: 1rem;
 }
 
-.c4 {
+.c3 {
   margin: 0;
 }
 
-.c7 {
+.c6 {
   margin: 0;
   font-size: 1.5rem;
   font-weight: bold;
 }
 
-.c3 {
+.c2 {
   margin-top: 2rem;
   margin-bottom: 1rem;
 }
 
-.c5 {
+.c4 {
   font-size: 8rem;
 }
 
-.c2 {
+.c1 {
   padding-top: 0;
   opacity: 1;
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
 }
 
-.c1 {
-  width: 100%;
-}
-
-.c6 {
+.c5 {
   display: inline-block;
   margin-bottom: 0;
   padding-bottom: 0;
@@ -344,7 +324,7 @@ exports[`<Home /> should render correctly with no user 1`] = `
   margin-top: 2rem;
 }
 
-.c6:first-of-type {
+.c5:first-of-type {
   margin-top: 0.86rem;
 }
 
@@ -356,13 +336,13 @@ exports[`<Home /> should render correctly with no user 1`] = `
 }
 
 @media (min-width:32.25rem) {
-  .c5 {
+  .c4 {
     font-size: 10rem;
   }
 }
 
 @media (min-width:50.25rem) {
-  .c5 {
+  .c4 {
     font-size: 18rem;
   }
 }
@@ -372,9 +352,7 @@ exports[`<Home /> should render correctly with no user 1`] = `
     class="c0 page-containerstyles__StyledPageContainer-sc-19l7k4-0"
     width="default"
   >
-    <div
-      class="c1"
-    >
+    <div>
       <style>
         .js .animated-content__wrapper--hidden {
   padding-top: 4rem;
@@ -382,22 +360,20 @@ exports[`<Home /> should render correctly with no user 1`] = `
 }
       </style>
       <div
-        class="c2 animated-content__wrapper--hidden"
+        class="c1 animated-content__wrapper--hidden"
       >
         <div
-          class="c3"
+          class="c2"
         >
           <span
-            class="c4 c5"
+            class="c3 c4"
           >
             YES!
           </span>
         </div>
       </div>
     </div>
-    <div
-      class="c1"
-    >
+    <div>
       <style>
         .js .animated-content__wrapper--hidden {
   padding-top: 4rem;
@@ -405,14 +381,14 @@ exports[`<Home /> should render correctly with no user 1`] = `
 }
       </style>
       <div
-        class="c2 animated-content__wrapper--hidden"
+        class="c1 animated-content__wrapper--hidden"
       >
         <span
-          class="c6"
+          class="c5"
           style="margin-bottom: 1rem;"
         >
           <span
-            class="c7"
+            class="c6"
           >
             Cheers 🍻
           </span>
@@ -447,37 +423,33 @@ exports[`<Home /> should render correctly with user 1`] = `
   padding-left: 1rem;
 }
 
-.c4 {
+.c3 {
   margin: 0;
 }
 
-.c7 {
+.c6 {
   margin: 0;
   font-size: 1.5rem;
   font-weight: bold;
 }
 
-.c3 {
+.c2 {
   margin-top: 2rem;
   margin-bottom: 1rem;
 }
 
-.c5 {
+.c4 {
   font-size: 8rem;
 }
 
-.c2 {
+.c1 {
   padding-top: 0;
   opacity: 1;
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
 }
 
-.c1 {
-  width: 100%;
-}
-
-.c6 {
+.c5 {
   display: inline-block;
   margin-bottom: 0;
   padding-bottom: 0;
@@ -485,7 +457,7 @@ exports[`<Home /> should render correctly with user 1`] = `
   margin-top: 2rem;
 }
 
-.c6:first-of-type {
+.c5:first-of-type {
   margin-top: 0.86rem;
 }
 
@@ -497,13 +469,13 @@ exports[`<Home /> should render correctly with user 1`] = `
 }
 
 @media (min-width:32.25rem) {
-  .c5 {
+  .c4 {
     font-size: 10rem;
   }
 }
 
 @media (min-width:50.25rem) {
-  .c5 {
+  .c4 {
     font-size: 18rem;
   }
 }
@@ -513,9 +485,7 @@ exports[`<Home /> should render correctly with user 1`] = `
     class="c0 page-containerstyles__StyledPageContainer-sc-19l7k4-0"
     width="default"
   >
-    <div
-      class="c1"
-    >
+    <div>
       <style>
         .js .animated-content__wrapper--hidden {
   padding-top: 4rem;
@@ -523,22 +493,20 @@ exports[`<Home /> should render correctly with user 1`] = `
 }
       </style>
       <div
-        class="c2 animated-content__wrapper--hidden"
+        class="c1 animated-content__wrapper--hidden"
       >
         <div
-          class="c3"
+          class="c2"
         >
           <span
-            class="c4 c5"
+            class="c3 c4"
           >
             YES!
           </span>
         </div>
       </div>
     </div>
-    <div
-      class="c1"
-    >
+    <div>
       <style>
         .js .animated-content__wrapper--hidden {
   padding-top: 4rem;
@@ -546,14 +514,14 @@ exports[`<Home /> should render correctly with user 1`] = `
 }
       </style>
       <div
-        class="c2 animated-content__wrapper--hidden"
+        class="c1 animated-content__wrapper--hidden"
       >
         <span
-          class="c6"
+          class="c5"
           style="margin-bottom: 1rem;"
         >
           <span
-            class="c7"
+            class="c6"
           >
             Cheers 🍻
           </span>
