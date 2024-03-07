@@ -24,37 +24,33 @@ exports[`<HomePage /> should render correctly 1`] = `
   padding-left: 1rem;
 }
 
-.c6 {
+.c5 {
   margin: 0;
 }
 
-.c9 {
+.c8 {
   margin: 0;
   font-size: 1.5rem;
   font-weight: bold;
 }
 
-.c5 {
+.c4 {
   margin-top: 2rem;
   margin-bottom: 1rem;
 }
 
-.c7 {
+.c6 {
   font-size: 8rem;
 }
 
-.c4 {
+.c3 {
   padding-top: 0;
   opacity: 1;
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
 }
 
-.c3 {
-  width: 100%;
-}
-
-.c8 {
+.c7 {
   display: inline-block;
   margin-bottom: 0;
   padding-bottom: 0;
@@ -62,16 +58,16 @@ exports[`<HomePage /> should render correctly 1`] = `
   margin-top: 2rem;
 }
 
-.c8:first-of-type {
+.c7:first-of-type {
   margin-top: 0.86rem;
 }
 
-.c15 {
+.c14 {
   width: 1.25rem;
   height: 1.25rem;
 }
 
-.c13 {
+.c12 {
   display: inline-block;
   border-radius: 0.25rem;
   font-weight: bold;
@@ -82,14 +78,14 @@ exports[`<HomePage /> should render correctly 1`] = `
   fill: white;
 }
 
-.c13:focus-within,
-.c13:focus {
+.c12:focus-within,
+.c12:focus {
   position: relative;
   outline: none !important;
 }
 
-.c13:focus-within::after,
-.c13:focus::after {
+.c12:focus-within::after,
+.c12:focus::after {
   position: absolute;
   top: -0.35rem;
   right: -0.35rem;
@@ -97,17 +93,17 @@ exports[`<HomePage /> should render correctly 1`] = `
   left: -0.35rem;
   content: '';
   display: block;
-  border: solid rgba(0,125,250,0.6) 0.2rem;
+  border: solid #007dfa3C 0.2rem;
   border-radius: 0.5rem;
   pointer-events: none;
 }
 
-.c13:hover {
+.c12:hover {
   color: white;
   fill: white;
 }
 
-.c14 {
+.c13 {
   display: -webkit-inline-box;
   display: -webkit-inline-flex;
   display: -ms-inline-flexbox;
@@ -117,7 +113,7 @@ exports[`<HomePage /> should render correctly 1`] = `
   margin-left: 0.55rem;
 }
 
-.c16 {
+.c15 {
   position: absolute;
   width: 1rem;
   height: 1rem;
@@ -125,12 +121,12 @@ exports[`<HomePage /> should render correctly 1`] = `
   margin-left: -0.45rem;
 }
 
-.c12 {
+.c11 {
   width: 100%;
   margin-top: 0.5rem;
 }
 
-.c10 {
+.c9 {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -147,10 +143,10 @@ exports[`<HomePage /> should render correctly 1`] = `
   background-color: #1e1e1e;
   background-position: center;
   background-size: cover;
-  color: white;
+  color: #ffffff;
 }
 
-.c11 {
+.c10 {
   text-align: center;
 }
 
@@ -172,44 +168,44 @@ exports[`<HomePage /> should render correctly 1`] = `
 }
 
 @media (min-width:32.25rem) {
-  .c7 {
+  .c6 {
     font-size: 10rem;
   }
 }
 
 @media (min-width:50.25rem) {
-  .c7 {
+  .c6 {
     font-size: 18rem;
   }
 }
 
 @media (prefers-color-scheme:dark) {
-  .c13:focus-within::after,
-  .c13:focus::after {
-    border-color: rgba(0,125,250,0.6);
+  .c12:focus-within::after,
+  .c12:focus::after {
+    border-color: #007dfa3C;
   }
 }
 
 @media (prefers-color-scheme:dark) {
-  .c13 {
+  .c12 {
     color: white;
     fill: white;
   }
 
-  .c13:hover {
+  .c12:hover {
     color: white;
     fill: white;
   }
 }
 
 @media (min-width:32.25rem) {
-  .c10 {
+  .c9 {
     padding: 2rem 2rem;
   }
 }
 
 @media (prefers-color-scheme:dark) {
-  .c10 {
+  .c9 {
     border-top: solid #44aeff 0.15rem;
   }
 }
@@ -223,9 +219,7 @@ exports[`<HomePage /> should render correctly 1`] = `
       class="c2 page-containerstyles__StyledPageContainer-sc-19l7k4-0"
       width="default"
     >
-      <div
-        class="c3"
-      >
+      <div>
         <style>
           .js .animated-content__wrapper--hidden {
   padding-top: 4rem;
@@ -233,22 +227,20 @@ exports[`<HomePage /> should render correctly 1`] = `
 }
         </style>
         <div
-          class="c4 animated-content__wrapper--hidden"
+          class="c3 animated-content__wrapper--hidden"
         >
           <div
-            class="c5"
+            class="c4"
           >
             <span
-              class="c6 c7"
+              class="c5 c6"
             >
               YES!
             </span>
           </div>
         </div>
       </div>
-      <div
-        class="c3"
-      >
+      <div>
         <style>
           .js .animated-content__wrapper--hidden {
   padding-top: 4rem;
@@ -256,14 +248,14 @@ exports[`<HomePage /> should render correctly 1`] = `
 }
         </style>
         <div
-          class="c4 animated-content__wrapper--hidden"
+          class="c3 animated-content__wrapper--hidden"
         >
           <span
-            class="c8"
+            class="c7"
             style="margin-bottom: 1rem;"
           >
             <span
-              class="c9"
+              class="c8"
             >
               Cheers 🍻
             </span>
@@ -272,46 +264,44 @@ exports[`<HomePage /> should render correctly 1`] = `
       </div>
     </div>
   </main>
-  <div
-    class="c3"
-  >
+  <div>
     <style>
       .js .animated-content__wrapper--hidden {
   opacity: 0.01;
 }
     </style>
     <div
-      class="c4 animated-content__wrapper--hidden"
+      class="c3 animated-content__wrapper--hidden"
     >
       <footer
-        class="c10"
+        class="c9"
         id="footer"
       >
         <div
-          class="c11"
+          class="c10"
         >
           <span
-            class="c8 c12"
+            class="c7 c11"
           >
             Made with love by
              
             <a
               aria-label="George (opens in a new tab)"
-              class="c13"
+              class="c12"
               href="https://www.georgegillams.co.uk/"
               rel="noopener noreferrer"
               target="_blank"
             >
               <span
-                class="c6"
+                class="c5"
               >
                 George
               </span>
               <div
-                class="c14"
+                class="c13"
               >
                 <svg
-                  class="c15 c16"
+                  class="c14 c15"
                   height="18"
                   viewBox="0 0 24 24"
                   width="18"
@@ -325,7 +315,7 @@ exports[`<HomePage /> should render correctly 1`] = `
             </a>
           </span>
           <span
-            class="c8 c12"
+            class="c7 c11"
           >
             Please do not share with anyone under the legal purchase age for alcohol. Drink Responsibly.
           </span>
